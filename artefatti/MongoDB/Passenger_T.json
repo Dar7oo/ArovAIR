@@ -1,0 +1,992 @@
+[
+	{
+		"PTaxCode" : "ADNTUI61N95B036C"
+	},
+	{
+		"PTaxCode" : "AGUVAW01G93Q956F"
+	},
+	{
+		"PTaxCode" : "AJSFEL15Z02K174P"
+	},
+	{
+		"PTaxCode" : "AMMGJC93V07D996A"
+	},
+	{
+		"PTaxCode" : "APSTZS09Z36Z852X"
+	},
+	{
+		"PTaxCode" : "AQHEOC68J80Q032O"
+	},
+	{
+		"PTaxCode" : "AQVFYC06V01U404V"
+	},
+	{
+		"PTaxCode" : "ASJGQC66R91C184E"
+	},
+	{
+		"PTaxCode" : "BACSUR91F01Y299Z"
+	},
+	{
+		"PTaxCode" : "BAJHZJ88X06Y049K"
+	},
+	{
+		"PTaxCode" : "BBRFLG33D71R882L"
+	},
+	{
+		"PTaxCode" : "BGNRWV43S14S200J"
+	},
+	{
+		"PTaxCode" : "BGWHAD52T35J557R"
+	},
+	{
+		"PTaxCode" : "BHOESF18B04Z837A"
+	},
+	{
+		"PTaxCode" : "BKQVDA88B10M660I"
+	},
+	{
+		"PTaxCode" : "BKTNEM05C09S552O"
+	},
+	{
+		"PTaxCode" : "BLTDML04Q96X504M"
+	},
+	{
+		"PTaxCode" : "BNOMLY96S64R519M"
+	},
+	{
+		"PTaxCode" : "BSLPGI35I83X773R"
+	},
+	{
+		"PTaxCode" : "BSPWAA20F06A438G"
+	},
+	{
+		"PTaxCode" : "BTGJLS86X77K090Y"
+	},
+	{
+		"PTaxCode" : "CBWDBO44X63G182X"
+	},
+	{
+		"PTaxCode" : "CHBRYZ71L62O681G"
+	},
+	{
+		"PTaxCode" : "CIYBSY19T16F221H"
+	},
+	{
+		"PTaxCode" : "CJLYVK60C13N008E"
+	},
+	{
+		"PTaxCode" : "CMDACH47N80P736H"
+	},
+	{
+		"PTaxCode" : "CREPFM97F13H035M"
+	},
+	{
+		"PTaxCode" : "CSCUOO76R31I554Y"
+	},
+	{
+		"PTaxCode" : "CWOUZU86N72R292E"
+	},
+	{
+		"PTaxCode" : "CWSDOY65V38W539I"
+	},
+	{
+		"PTaxCode" : "CYFLLV87D96J645T"
+	},
+	{
+		"PTaxCode" : "CZMRQE93X95G620M"
+	},
+	{
+		"PTaxCode" : "CZVZXH09P68E383O"
+	},
+	{
+		"PTaxCode" : "DBPWYL18E93A211X"
+	},
+	{
+		"PTaxCode" : "DCEBIK28A26L519A"
+	},
+	{
+		"PTaxCode" : "DHDXTV51V11P855X"
+	},
+	{
+		"PTaxCode" : "DISDSO52R77M085A"
+	},
+	{
+		"PTaxCode" : "DLCUKO08M67W856V"
+	},
+	{
+		"PTaxCode" : "DLOGIQ56X66U248R"
+	},
+	{
+		"PTaxCode" : "DNHHXZ34B28W256U"
+	},
+	{
+		"PTaxCode" : "DPDEJU13S64P078Q"
+	},
+	{
+		"PTaxCode" : "DTJRNG37V47M899M"
+	},
+	{
+		"PTaxCode" : "DXARNM35F89M784N"
+	},
+	{
+		"PTaxCode" : "ECWOAX24A64S442I"
+	},
+	{
+		"PTaxCode" : "ECXEKK13Y54B370M"
+	},
+	{
+		"PTaxCode" : "EGPHPX54O09Z892N"
+	},
+	{
+		"PTaxCode" : "EHJVYK21A31R654F"
+	},
+	{
+		"PTaxCode" : "EIGRZH64E05T939C"
+	},
+	{
+		"PTaxCode" : "EJPXDA45Z46U884G"
+	},
+	{
+		"PTaxCode" : "EMVAOE88L30F033T"
+	},
+	{
+		"PTaxCode" : "ENMPFY21P95E135Q"
+	},
+	{
+		"PTaxCode" : "EPNWPD47N83F768R"
+	},
+	{
+		"PTaxCode" : "ERRJLW55V94I869M"
+	},
+	{
+		"PTaxCode" : "ETTYRB03X51B797X"
+	},
+	{
+		"PTaxCode" : "EUSIWY98H43J036G"
+	},
+	{
+		"PTaxCode" : "EVDPGK47S27V871I"
+	},
+	{
+		"PTaxCode" : "EZWNFI62P39K297V"
+	},
+	{
+		"PTaxCode" : "FAYMZQ54R41W683G"
+	},
+	{
+		"PTaxCode" : "FGXCYN64Q77W320F"
+	},
+	{
+		"PTaxCode" : "FJDKLR92Q31X958Q"
+	},
+	{
+		"PTaxCode" : "FJHNYH62G04X068Q"
+	},
+	{
+		"PTaxCode" : "FJOVFQ71R50I386Y"
+	},
+	{
+		"PTaxCode" : "FJUIGX84E49U387K"
+	},
+	{
+		"PTaxCode" : "FLXQOQ54K75J707C"
+	},
+	{
+		"PTaxCode" : "FPMMGR26L19U808K"
+	},
+	{
+		"PTaxCode" : "FQPWMW97A45F795F"
+	},
+	{
+		"PTaxCode" : "FQSUDL13I00A046T"
+	},
+	{
+		"PTaxCode" : "FRMCFD19H15Y518O"
+	},
+	{
+		"PTaxCode" : "FRNQZU91A56S603Y"
+	},
+	{
+		"PTaxCode" : "FUUJHV52L01A705O"
+	},
+	{
+		"PTaxCode" : "FYCYPF57U48L098Z"
+	},
+	{
+		"PTaxCode" : "FZFMZT13B15H285Y"
+	},
+	{
+		"PTaxCode" : "FZNAMR94Q36F294G"
+	},
+	{
+		"PTaxCode" : "GCDFXX24C25B313M"
+	},
+	{
+		"PTaxCode" : "GFCPED11H51D989R"
+	},
+	{
+		"PTaxCode" : "GHKNDR43M10Q420T"
+	},
+	{
+		"PTaxCode" : "GIJZYS92S85M319P"
+	},
+	{
+		"PTaxCode" : "GIVYSL98Q74G098N"
+	},
+	{
+		"PTaxCode" : "GKSZCZ06W68W280R"
+	},
+	{
+		"PTaxCode" : "GKZYRI80F68A268O"
+	},
+	{
+		"PTaxCode" : "GLKROK75F23A769S"
+	},
+	{
+		"PTaxCode" : "GMVCJR12A26B858L"
+	},
+	{
+		"PTaxCode" : "GNBGYV35K74W119A"
+	},
+	{
+		"PTaxCode" : "GPRXPM33V71E624M"
+	},
+	{
+		"PTaxCode" : "GVIYXR05A61F594W"
+	},
+	{
+		"PTaxCode" : "GXCMKI95L86Z123I"
+	},
+	{
+		"PTaxCode" : "GXHZVH22Y58U249U"
+	},
+	{
+		"PTaxCode" : "GXLPCW76H06E076U"
+	},
+	{
+		"PTaxCode" : "GXPDMV24R88T169Q"
+	},
+	{
+		"PTaxCode" : "GYLYQF33K76E021U"
+	},
+	{
+		"PTaxCode" : "GZRGFK09J09C577C"
+	},
+	{
+		"PTaxCode" : "HDPNAV16F98C480X"
+	},
+	{
+		"PTaxCode" : "HDPVHG24O62F614B"
+	},
+	{
+		"PTaxCode" : "HHBVJP70D58S698A"
+	},
+	{
+		"PTaxCode" : "HHMMJV19J61Z816Y"
+	},
+	{
+		"PTaxCode" : "HHOGYP55G34X309A"
+	},
+	{
+		"PTaxCode" : "HHSWPI17B90K895U"
+	},
+	{
+		"PTaxCode" : "HIQMZG98H72S403R"
+	},
+	{
+		"PTaxCode" : "HLJKIS51W54R967P"
+	},
+	{
+		"PTaxCode" : "HNKESV60M16J261T"
+	},
+	{
+		"PTaxCode" : "HPEFEC31H02P719K"
+	},
+	{
+		"PTaxCode" : "HXTPKT85J18U867Z"
+	},
+	{
+		"PTaxCode" : "HZTMRC54M78Q973B"
+	},
+	{
+		"PTaxCode" : "IEVVTP05Z65V883I"
+	},
+	{
+		"PTaxCode" : "IFMECR77G50I683G"
+	},
+	{
+		"PTaxCode" : "IJYRKQ99M14C499J"
+	},
+	{
+		"PTaxCode" : "IMUPFS66A98P258K"
+	},
+	{
+		"PTaxCode" : "IOWRCA46Z62R161U"
+	},
+	{
+		"PTaxCode" : "IOZPDS68V11L985T"
+	},
+	{
+		"PTaxCode" : "IPDBAU49I32G324J"
+	},
+	{
+		"PTaxCode" : "IQFGUD75O47L597T"
+	},
+	{
+		"PTaxCode" : "IRLEMO49K06U451J"
+	},
+	{
+		"PTaxCode" : "IRVVHK06W77B440W"
+	},
+	{
+		"PTaxCode" : "ITVGFY89A74K374B"
+	},
+	{
+		"PTaxCode" : "IWBLLZ18I32G030F"
+	},
+	{
+		"PTaxCode" : "IXPMPI84Q41Q153C"
+	},
+	{
+		"PTaxCode" : "JACSGT41K57C941B"
+	},
+	{
+		"PTaxCode" : "JADXIV81Q70W278A"
+	},
+	{
+		"PTaxCode" : "JAXPRH87V66X830L"
+	},
+	{
+		"PTaxCode" : "JBQKAB26E96B286S"
+	},
+	{
+		"PTaxCode" : "JDKTIR28U58E586D"
+	},
+	{
+		"PTaxCode" : "JEJNDV00F12H625L"
+	},
+	{
+		"PTaxCode" : "JFXNFF08C66Q128E"
+	},
+	{
+		"PTaxCode" : "JGATGT48S40P437S"
+	},
+	{
+		"PTaxCode" : "JGTNEG01O59O139L"
+	},
+	{
+		"PTaxCode" : "JIPDXB73F82E309F"
+	},
+	{
+		"PTaxCode" : "JLADEF28C87F451R"
+	},
+	{
+		"PTaxCode" : "JMNWXT60Y08Y965M"
+	},
+	{
+		"PTaxCode" : "JNGGOQ24E76C609B"
+	},
+	{
+		"PTaxCode" : "JPWOIE58C59G107T"
+	},
+	{
+		"PTaxCode" : "JQCLRS04W63A223E"
+	},
+	{
+		"PTaxCode" : "JRQIFN21S75A024Y"
+	},
+	{
+		"PTaxCode" : "JULBDA29I22G885E"
+	},
+	{
+		"PTaxCode" : "JVWXVE05G57R747K"
+	},
+	{
+		"PTaxCode" : "JYXCGW93H69L723M"
+	},
+	{
+		"PTaxCode" : "KAPXPD80W74B242G"
+	},
+	{
+		"PTaxCode" : "KETNSK13W83T764L"
+	},
+	{
+		"PTaxCode" : "KFILWA10X55Z242N"
+	},
+	{
+		"PTaxCode" : "KKUOQI52B48S965H"
+	},
+	{
+		"PTaxCode" : "KKVDXA75H40R479K"
+	},
+	{
+		"PTaxCode" : "KKYOPU46I09E736A"
+	},
+	{
+		"PTaxCode" : "KLRHEK24R06F268Q"
+	},
+	{
+		"PTaxCode" : "KNCOZC05G20Q559S"
+	},
+	{
+		"PTaxCode" : "KPCWLK78L21Q342I"
+	},
+	{
+		"PTaxCode" : "KQCMDX44T37T420X"
+	},
+	{
+		"PTaxCode" : "KRBVVB08K93B388Z"
+	},
+	{
+		"PTaxCode" : "KUMUVP62V01G469Z"
+	},
+	{
+		"PTaxCode" : "KURBAU41X60X001M"
+	},
+	{
+		"PTaxCode" : "KVZPJG21I17E571O"
+	},
+	{
+		"PTaxCode" : "KZCKQM98S15M111A"
+	},
+	{
+		"PTaxCode" : "LBAQLK70K96T013V"
+	},
+	{
+		"PTaxCode" : "LBDCUV36R43I160J"
+	},
+	{
+		"PTaxCode" : "LFRJMW82V24Q972X"
+	},
+	{
+		"PTaxCode" : "LJLJLB32Y24N761U"
+	},
+	{
+		"PTaxCode" : "LKSZJG47L51Z892P"
+	},
+	{
+		"PTaxCode" : "LLUWBW48Y68C489J"
+	},
+	{
+		"PTaxCode" : "LMAQIR43L36U557E"
+	},
+	{
+		"PTaxCode" : "LMDTSX08V51E891Q"
+	},
+	{
+		"PTaxCode" : "LMYFEZ84R03C787I"
+	},
+	{
+		"PTaxCode" : "LNWCRT71O28G409H"
+	},
+	{
+		"PTaxCode" : "LOGBWT79P94W267N"
+	},
+	{
+		"PTaxCode" : "LOGMKT38P70A966L"
+	},
+	{
+		"PTaxCode" : "LQRYST53S96B319G"
+	},
+	{
+		"PTaxCode" : "LVBWJD62L25F162M"
+	},
+	{
+		"PTaxCode" : "LYLHDI31M64P291W"
+	},
+	{
+		"PTaxCode" : "MBHPLG15K71X254Z"
+	},
+	{
+		"PTaxCode" : "MCIAIN41A60O754N"
+	},
+	{
+		"PTaxCode" : "MCVBFZ89Q07Y709C"
+	},
+	{
+		"PTaxCode" : "MDNNUT81T94I673S"
+	},
+	{
+		"PTaxCode" : "MDOWKT97T08N782Y"
+	},
+	{
+		"PTaxCode" : "MEDDLG46G81Q798F"
+	},
+	{
+		"PTaxCode" : "MEZINC05P74S162P"
+	},
+	{
+		"PTaxCode" : "MIYWFM50H68H302N"
+	},
+	{
+		"PTaxCode" : "MKGNIH53Z20A796Z"
+	},
+	{
+		"PTaxCode" : "MMOGDN48M64C339R"
+	},
+	{
+		"PTaxCode" : "MMVPHF68Q60C961Q"
+	},
+	{
+		"PTaxCode" : "MQUDIA35J88I600P"
+	},
+	{
+		"PTaxCode" : "MRLCTW45U75S169W"
+	},
+	{
+		"PTaxCode" : "MTETOB62E23B759E"
+	},
+	{
+		"PTaxCode" : "MXOFDM99H07L776B"
+	},
+	{
+		"PTaxCode" : "NARAPF59C71N488P"
+	},
+	{
+		"PTaxCode" : "NAXMAG20A18H587C"
+	},
+	{
+		"PTaxCode" : "NJFSIZ28V26Y621P"
+	},
+	{
+		"PTaxCode" : "NNIHVD40O78U734R"
+	},
+	{
+		"PTaxCode" : "NSCSTM11R70P477V"
+	},
+	{
+		"PTaxCode" : "OAHVUS23D43V225T"
+	},
+	{
+		"PTaxCode" : "OAJHEZ00M52P699S"
+	},
+	{
+		"PTaxCode" : "OAUPSQ28X48T753Z"
+	},
+	{
+		"PTaxCode" : "OEXWNF13P20Z110T"
+	},
+	{
+		"PTaxCode" : "OFHCEZ10K56O001E"
+	},
+	{
+		"PTaxCode" : "OKAUEI84W12M665C"
+	},
+	{
+		"PTaxCode" : "ONJMDE43C33N750T"
+	},
+	{
+		"PTaxCode" : "OOKUYD28C26E769Z"
+	},
+	{
+		"PTaxCode" : "OQODCK88P06X195Y"
+	},
+	{
+		"PTaxCode" : "ORDNVR39B91H390P"
+	},
+	{
+		"PTaxCode" : "OUNFYC66Y75Y577S"
+	},
+	{
+		"PTaxCode" : "OZGVXG23C60J050J"
+	},
+	{
+		"PTaxCode" : "OZLHVZ38I16B519P"
+	},
+	{
+		"PTaxCode" : "PFDEBR15G44M438X"
+	},
+	{
+		"PTaxCode" : "PFNTBK36I22Y306Q"
+	},
+	{
+		"PTaxCode" : "PGVDXW04O31Q428W"
+	},
+	{
+		"PTaxCode" : "PGVPOR26G41R063Q"
+	},
+	{
+		"PTaxCode" : "PKOGSB95U83V941N"
+	},
+	{
+		"PTaxCode" : "PMVETH78Y55V342H"
+	},
+	{
+		"PTaxCode" : "PNJFVS16E03W081C"
+	},
+	{
+		"PTaxCode" : "PRUJHE61Q14H624P"
+	},
+	{
+		"PTaxCode" : "PTDPIX14J34Y474R"
+	},
+	{
+		"PTaxCode" : "PTWJIR34E78L435B"
+	},
+	{
+		"PTaxCode" : "PVDDXP62J48Z084R"
+	},
+	{
+		"PTaxCode" : "PVXKFQ08B73F152K"
+	},
+	{
+		"PTaxCode" : "PWDTXQ28U57U190X"
+	},
+	{
+		"PTaxCode" : "PYKVPH23D86Q447T"
+	},
+	{
+		"PTaxCode" : "PZJRAN56Z16C259L"
+	},
+	{
+		"PTaxCode" : "QAXMFI06S07O423F"
+	},
+	{
+		"PTaxCode" : "QBXAXZ89J45T490Y"
+	},
+	{
+		"PTaxCode" : "QDIMIM80O49C550U"
+	},
+	{
+		"PTaxCode" : "QDPFML91O66Q930S"
+	},
+	{
+		"PTaxCode" : "QFHSXY08N74J768O"
+	},
+	{
+		"PTaxCode" : "QFHZII04I19F697W"
+	},
+	{
+		"PTaxCode" : "QJWREZ00T92X711G"
+	},
+	{
+		"PTaxCode" : "QKCMYM80F63O122U"
+	},
+	{
+		"PTaxCode" : "QKEAAS45Z87B819F"
+	},
+	{
+		"PTaxCode" : "QKXQOE67R82W163T"
+	},
+	{
+		"PTaxCode" : "QQNNVB70U29R010U"
+	},
+	{
+		"PTaxCode" : "QRTURD06G88H657V"
+	},
+	{
+		"PTaxCode" : "QSBABZ96M90H672E"
+	},
+	{
+		"PTaxCode" : "QSGAYE67C65F168S"
+	},
+	{
+		"PTaxCode" : "RBSJUG46S61F823U"
+	},
+	{
+		"PTaxCode" : "RDXDZE73U54N871X"
+	},
+	{
+		"PTaxCode" : "RDXMBH67V14G174Z"
+	},
+	{
+		"PTaxCode" : "REWZBL29I98E526Z"
+	},
+	{
+		"PTaxCode" : "REYIRB94P60F700S"
+	},
+	{
+		"PTaxCode" : "RJJZZR97O97R894G"
+	},
+	{
+		"PTaxCode" : "RKRAEM48G76L252O"
+	},
+	{
+		"PTaxCode" : "ROJJAP28Y68A102H"
+	},
+	{
+		"PTaxCode" : "ROSELY83V77H297G"
+	},
+	{
+		"PTaxCode" : "RRWXCX40N58X611R"
+	},
+	{
+		"PTaxCode" : "RVKFUY64L11B330Q"
+	},
+	{
+		"PTaxCode" : "RVYQQT67F83A318Z"
+	},
+	{
+		"PTaxCode" : "SAYODP66E36O561R"
+	},
+	{
+		"PTaxCode" : "SEHIPC40W68P582W"
+	},
+	{
+		"PTaxCode" : "SPXBEL55H07Q378S"
+	},
+	{
+		"PTaxCode" : "SQUSKY79X44O110S"
+	},
+	{
+		"PTaxCode" : "SSAPOB24M56Y237G"
+	},
+	{
+		"PTaxCode" : "TAEVIJ78C88Y490M"
+	},
+	{
+		"PTaxCode" : "TCRRPV67W29Q579J"
+	},
+	{
+		"PTaxCode" : "TDSOGM50Q22W051U"
+	},
+	{
+		"PTaxCode" : "TGYTCH63Z85A964M"
+	},
+	{
+		"PTaxCode" : "THFGCK79C65B875C"
+	},
+	{
+		"PTaxCode" : "TKEEML92S19Z605C"
+	},
+	{
+		"PTaxCode" : "TKNFEW35T17J393T"
+	},
+	{
+		"PTaxCode" : "TLBEFQ02M45H009O"
+	},
+	{
+		"PTaxCode" : "TPUYVQ19K16B808K"
+	},
+	{
+		"PTaxCode" : "TRDAHO40C35P594D"
+	},
+	{
+		"PTaxCode" : "TYHMAC77P30S548W"
+	},
+	{
+		"PTaxCode" : "TYSFYN71Z59R274Q"
+	},
+	{
+		"PTaxCode" : "UBPQFH45L48D310A"
+	},
+	{
+		"PTaxCode" : "UBSMKJ02E84E314D"
+	},
+	{
+		"PTaxCode" : "UDABUF87W81L882Y"
+	},
+	{
+		"PTaxCode" : "UDLSNF48G52H105N"
+	},
+	{
+		"PTaxCode" : "UDSEOV54B15Y854B"
+	},
+	{
+		"PTaxCode" : "UHUUME14Y67E787P"
+	},
+	{
+		"PTaxCode" : "UQZHPU47M64U954W"
+	},
+	{
+		"PTaxCode" : "URUWTU63D93S031Y"
+	},
+	{
+		"PTaxCode" : "USWKUM34L97G705E"
+	},
+	{
+		"PTaxCode" : "UUHNVU99U45Q255W"
+	},
+	{
+		"PTaxCode" : "UXSGIE18M31Z103U"
+	},
+	{
+		"PTaxCode" : "UZDZNJ71V51F100R"
+	},
+	{
+		"PTaxCode" : "UZJPUY69R23K454H"
+	},
+	{
+		"PTaxCode" : "VBPBMI21P82D025H"
+	},
+	{
+		"PTaxCode" : "VBSXVF45C51S902Q"
+	},
+	{
+		"PTaxCode" : "VCPNZZ42F25G556C"
+	},
+	{
+		"PTaxCode" : "VEVRYA53V02V530E"
+	},
+	{
+		"PTaxCode" : "VLDJQZ23G69Q359V"
+	},
+	{
+		"PTaxCode" : "VMDAHM48D47I625E"
+	},
+	{
+		"PTaxCode" : "VNXBSG94F16W035P"
+	},
+	{
+		"PTaxCode" : "VPZRNX13B47R341L"
+	},
+	{
+		"PTaxCode" : "VULUSZ45P17D632R"
+	},
+	{
+		"PTaxCode" : "VVINOY91Y80M768Y"
+	},
+	{
+		"PTaxCode" : "VVQHKI64Z26Y478Z"
+	},
+	{
+		"PTaxCode" : "VWAPNN79J46I004F"
+	},
+	{
+		"PTaxCode" : "VWFZTR76W86X801H"
+	},
+	{
+		"PTaxCode" : "VXQAIQ86I14E953W"
+	},
+	{
+		"PTaxCode" : "VYRYOQ47S46Q085W"
+	},
+	{
+		"PTaxCode" : "WCDWDZ22W30U558V"
+	},
+	{
+		"PTaxCode" : "WCHPHI51D69R799T"
+	},
+	{
+		"PTaxCode" : "WFRPZT52A34A486T"
+	},
+	{
+		"PTaxCode" : "WQJIHC11P56I874X"
+	},
+	{
+		"PTaxCode" : "WQPUSD93E18D622F"
+	},
+	{
+		"PTaxCode" : "WRSIQZ39U66J631G"
+	},
+	{
+		"PTaxCode" : "WRUBUP75J53B199V"
+	},
+	{
+		"PTaxCode" : "WSYFLT86B62H660K"
+	},
+	{
+		"PTaxCode" : "WTUHKZ81E13O345D"
+	},
+	{
+		"PTaxCode" : "WVHQNV75U02S318H"
+	},
+	{
+		"PTaxCode" : "WWITMI42A92L021W"
+	},
+	{
+		"PTaxCode" : "WWTJKV61R52H808S"
+	},
+	{
+		"PTaxCode" : "WYHSNF70J34W638Q"
+	},
+	{
+		"PTaxCode" : "WZHWEI92D89G915O"
+	},
+	{
+		"PTaxCode" : "XANZXZ54Q01N309X"
+	},
+	{
+		"PTaxCode" : "XBJLPQ41J90N209R"
+	},
+	{
+		"PTaxCode" : "XCKVPZ28K18G264I"
+	},
+	{
+		"PTaxCode" : "XDKFKL39O00T458I"
+	},
+	{
+		"PTaxCode" : "XJLFIB31G17J819R"
+	},
+	{
+		"PTaxCode" : "XMAJSP99K31Y588K"
+	},
+	{
+		"PTaxCode" : "XPGBDQ59R55X108F"
+	},
+	{
+		"PTaxCode" : "XQMLPN77H51Z792R"
+	},
+	{
+		"PTaxCode" : "XRAXQD75I39L841Y"
+	},
+	{
+		"PTaxCode" : "XVAUMN96H56B562V"
+	},
+	{
+		"PTaxCode" : "YEMMXK04P24Y230E"
+	},
+	{
+		"PTaxCode" : "YGYZGE87W82B529D"
+	},
+	{
+		"PTaxCode" : "YHQOHJ12W58Q153G"
+	},
+	{
+		"PTaxCode" : "YIEEOT91Z29M920K"
+	},
+	{
+		"PTaxCode" : "YMGTNI57G03B422Z"
+	},
+	{
+		"PTaxCode" : "YQJPVO22G90F941K"
+	},
+	{
+		"PTaxCode" : "YREFNU52M74D165Z"
+	},
+	{
+		"PTaxCode" : "YRFHPT05Y39N633E"
+	},
+	{
+		"PTaxCode" : "YVLSSR51O48H384B"
+	},
+	{
+		"PTaxCode" : "ZDGIXT01G41I570Q"
+	},
+	{
+		"PTaxCode" : "ZDYPGH79S02G688Q"
+	},
+	{
+		"PTaxCode" : "ZFCGZU14S71T923L"
+	},
+	{
+		"PTaxCode" : "ZFHGBF26N20Q352H"
+	},
+	{
+		"PTaxCode" : "ZGOUQC49T47C026V"
+	},
+	{
+		"PTaxCode" : "ZGZNKI09D70I256J"
+	},
+	{
+		"PTaxCode" : "ZHBJNL81A87K698X"
+	},
+	{
+		"PTaxCode" : "ZHKFGC21H50M445H"
+	},
+	{
+		"PTaxCode" : "ZJGRQG18Y74G557A"
+	},
+	{
+		"PTaxCode" : "ZKHSXM41S09W021L"
+	},
+	{
+		"PTaxCode" : "ZNJZSO10F03M566C"
+	},
+	{
+		"PTaxCode" : "ZVRPXL32V42E319A"
+	},
+	{
+		"PTaxCode" : "ZXBIEL99S96Q419X"
+	}
+]

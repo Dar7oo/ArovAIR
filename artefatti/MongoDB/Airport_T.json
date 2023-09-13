@@ -1,0 +1,802 @@
+[
+	{
+		"AirportCode" : "ASV",
+		"Nation" : "Ireland",
+		"City" : "Dublin",
+		"ZipCode" : "49920",
+		"NofAirstrips" : 10,
+		"Parking" : "1",
+		"Metro" : "0",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "AUH",
+		"Nation" : "Hungary",
+		"City" : "Budapest",
+		"ZipCode" : "20904",
+		"NofAirstrips" : 9,
+		"Parking" : "0",
+		"Metro" : "0",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "AZC",
+		"Nation" : "Italy",
+		"City" : "Milan",
+		"ZipCode" : "21541",
+		"NofAirstrips" : 6,
+		"Parking" : "1",
+		"Metro" : "0",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "BCT",
+		"Nation" : "United Kingdom",
+		"City" : "Glasgow",
+		"ZipCode" : "57417",
+		"NofAirstrips" : 10,
+		"Parking" : "0",
+		"Metro" : "1",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "CLW",
+		"Nation" : "Spain",
+		"City" : "Barcelona",
+		"ZipCode" : "83582",
+		"NofAirstrips" : 3,
+		"Parking" : "0",
+		"Metro" : "0",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "COW",
+		"Nation" : "Austria",
+		"City" : "Salzburg",
+		"ZipCode" : "58971",
+		"NofAirstrips" : 6,
+		"Parking" : "1",
+		"Metro" : "0",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "CUN",
+		"Nation" : "Portugal",
+		"City" : "Roliça",
+		"ZipCode" : "05233",
+		"NofAirstrips" : 1,
+		"Parking" : "0",
+		"Metro" : "1",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "CWA",
+		"Nation" : "France",
+		"City" : "Paris",
+		"ZipCode" : "52915",
+		"NofAirstrips" : 6,
+		"Parking" : "1",
+		"Metro" : "1",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "CZN",
+		"Nation" : "Croatia",
+		"City" : "Split",
+		"ZipCode" : "42132",
+		"NofAirstrips" : 9,
+		"Parking" : "0",
+		"Metro" : "1",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "DLQ",
+		"Nation" : "Greece",
+		"City" : "Mykonos",
+		"ZipCode" : "86518",
+		"NofAirstrips" : 1,
+		"Parking" : "1",
+		"Metro" : "0",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "EAO",
+		"Nation" : "Spain",
+		"City" : "Madrid",
+		"ZipCode" : "20416",
+		"NofAirstrips" : 5,
+		"Parking" : "1",
+		"Metro" : "1",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "EFP",
+		"Nation" : "Poland",
+		"City" : "Krakow",
+		"ZipCode" : "45643",
+		"NofAirstrips" : 8,
+		"Parking" : "0",
+		"Metro" : "0",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "EYM",
+		"Nation" : "Belgium",
+		"City" : "Bruges",
+		"ZipCode" : "09726",
+		"NofAirstrips" : 1,
+		"Parking" : "0",
+		"Metro" : "0",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "FMA",
+		"Nation" : "Ukraine",
+		"City" : "Kyiv",
+		"ZipCode" : "10870",
+		"NofAirstrips" : 4,
+		"Parking" : "1",
+		"Metro" : "1",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "FXW",
+		"Nation" : "Sweden",
+		"City" : "Gothenburg",
+		"ZipCode" : "13631",
+		"NofAirstrips" : 7,
+		"Parking" : "1",
+		"Metro" : "1",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "GCD",
+		"Nation" : "Poland",
+		"City" : "Rokietnica",
+		"ZipCode" : "28180",
+		"NofAirstrips" : 8,
+		"Parking" : "1",
+		"Metro" : "0",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "GDH",
+		"Nation" : "Slovakia",
+		"City" : "Kosice",
+		"ZipCode" : "45343",
+		"NofAirstrips" : 4,
+		"Parking" : "0",
+		"Metro" : "0",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "GUF",
+		"Nation" : "Spain",
+		"City" : "Valencia",
+		"ZipCode" : "86574",
+		"NofAirstrips" : 3,
+		"Parking" : "0",
+		"Metro" : "0",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "GZC",
+		"Nation" : "Italy",
+		"City" : "Rome",
+		"ZipCode" : "86394",
+		"NofAirstrips" : 5,
+		"Parking" : "0",
+		"Metro" : "0",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "IKF",
+		"Nation" : "Belgium",
+		"City" : "Brussels",
+		"ZipCode" : "24708",
+		"NofAirstrips" : 2,
+		"Parking" : "1",
+		"Metro" : "0",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "ILJ",
+		"Nation" : "United Kingdom",
+		"City" : " Edinburgh",
+		"ZipCode" : "09765",
+		"NofAirstrips" : 2,
+		"Parking" : "1",
+		"Metro" : "1",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "IMQ",
+		"Nation" : "Serbia",
+		"City" : "Belgrade",
+		"ZipCode" : "13111",
+		"NofAirstrips" : 5,
+		"Parking" : "1",
+		"Metro" : "0",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "JBY",
+		"Nation" : "Italy",
+		"City" : "Palermo",
+		"ZipCode" : "46707",
+		"NofAirstrips" : 5,
+		"Parking" : "1",
+		"Metro" : "1",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "JCX",
+		"Nation" : "Serbia",
+		"City" : "Novi Sad",
+		"ZipCode" : "76311",
+		"NofAirstrips" : 1,
+		"Parking" : "1",
+		"Metro" : "1",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "JHL",
+		"Nation" : "Germany",
+		"City" : "Hamburg",
+		"ZipCode" : "71880",
+		"NofAirstrips" : 5,
+		"Parking" : "0",
+		"Metro" : "1",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "JRN",
+		"Nation" : "Denmark",
+		"City" : "Copenhagen",
+		"ZipCode" : "17709",
+		"NofAirstrips" : 1,
+		"Parking" : "1",
+		"Metro" : "1",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "KKB",
+		"Nation" : "Switzerland",
+		"City" : "Geneva",
+		"ZipCode" : "29140",
+		"NofAirstrips" : 7,
+		"Parking" : "0",
+		"Metro" : "0",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "KQF",
+		"Nation" : "United Kingdom",
+		"City" : "Manchester",
+		"ZipCode" : "07856",
+		"NofAirstrips" : 10,
+		"Parking" : "0",
+		"Metro" : "0",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "LDN",
+		"Nation" : "Sweden",
+		"City" : "Malmoe",
+		"ZipCode" : "61408",
+		"NofAirstrips" : 3,
+		"Parking" : "1",
+		"Metro" : "0",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "LPH",
+		"Nation" : "Poland",
+		"City" : "Warsaw",
+		"ZipCode" : "48012",
+		"NofAirstrips" : 8,
+		"Parking" : "0",
+		"Metro" : "0",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "LUS",
+		"Nation" : "Slovakia",
+		"City" : "Bratislava",
+		"ZipCode" : "91197",
+		"NofAirstrips" : 7,
+		"Parking" : "0",
+		"Metro" : "0",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "MGN",
+		"Nation" : "Ukraine",
+		"City" : "Svitlovods’k",
+		"ZipCode" : "98490",
+		"NofAirstrips" : 6,
+		"Parking" : "1",
+		"Metro" : "0",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "MJF",
+		"Nation" : "Italy",
+		"City" : "Naples",
+		"ZipCode" : "67555",
+		"NofAirstrips" : 9,
+		"Parking" : "1",
+		"Metro" : "0",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "MXO",
+		"Nation" : "Luxemburg",
+		"City" : "Luxemburg",
+		"ZipCode" : "76165",
+		"NofAirstrips" : 6,
+		"Parking" : "1",
+		"Metro" : "0",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "NAU",
+		"Nation" : "Croatia",
+		"City" : "Zagreb",
+		"ZipCode" : "63702",
+		"NofAirstrips" : 5,
+		"Parking" : "0",
+		"Metro" : "0",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "NLF",
+		"Nation" : "Austria",
+		"City" : "Vienna",
+		"ZipCode" : "25706",
+		"NofAirstrips" : 6,
+		"Parking" : "0",
+		"Metro" : "0",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "NZQ",
+		"Nation" : "Sweden",
+		"City" : "Hägersten",
+		"ZipCode" : "72204",
+		"NofAirstrips" : 7,
+		"Parking" : "1",
+		"Metro" : "1",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "OIJ",
+		"Nation" : "Ukraine",
+		"City" : "Dnipro",
+		"ZipCode" : "61671",
+		"NofAirstrips" : 2,
+		"Parking" : "1",
+		"Metro" : "1",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "OTZ",
+		"Nation" : "Greece",
+		"City" : "Grevená",
+		"ZipCode" : "41049",
+		"NofAirstrips" : 6,
+		"Parking" : "0",
+		"Metro" : "1",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "OZF",
+		"Nation" : "Poland",
+		"City" : "Lipie",
+		"ZipCode" : "07455",
+		"NofAirstrips" : 1,
+		"Parking" : "1",
+		"Metro" : "0",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "PCI",
+		"Nation" : "Malta",
+		"City" : "Valletta",
+		"ZipCode" : "07780",
+		"NofAirstrips" : 9,
+		"Parking" : "0",
+		"Metro" : "1",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "POA",
+		"Nation" : "Sweden",
+		"City" : "Solna",
+		"ZipCode" : "48754",
+		"NofAirstrips" : 7,
+		"Parking" : "1",
+		"Metro" : "0",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "QSE",
+		"Nation" : "France",
+		"City" : "Marseille",
+		"ZipCode" : "51684",
+		"NofAirstrips" : 4,
+		"Parking" : "1",
+		"Metro" : "0",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "QZO",
+		"Nation" : "Croatia",
+		"City" : "Rijeka",
+		"ZipCode" : "24242",
+		"NofAirstrips" : 8,
+		"Parking" : "1",
+		"Metro" : "0",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "RLF",
+		"Nation" : "United Kingdom",
+		"City" : "London",
+		"ZipCode" : "23093",
+		"NofAirstrips" : 10,
+		"Parking" : "0",
+		"Metro" : "0",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "RMB",
+		"Nation" : "Czech Republic",
+		"City" : "Prague",
+		"ZipCode" : "31529",
+		"NofAirstrips" : 5,
+		"Parking" : "1",
+		"Metro" : "1",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "RRB",
+		"Nation" : "Finland",
+		"City" : "Tampere",
+		"ZipCode" : "68406",
+		"NofAirstrips" : 3,
+		"Parking" : "0",
+		"Metro" : "0",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "RVE",
+		"Nation" : "Greece",
+		"City" : "Heraklion",
+		"ZipCode" : "05428",
+		"NofAirstrips" : 10,
+		"Parking" : "0",
+		"Metro" : "0",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "RXU",
+		"Nation" : "Slovakia",
+		"City" : "Presov",
+		"ZipCode" : "85068",
+		"NofAirstrips" : 2,
+		"Parking" : "0",
+		"Metro" : "0",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "SFP",
+		"Nation" : "Portugal",
+		"City" : "Sintra",
+		"ZipCode" : "94846",
+		"NofAirstrips" : 5,
+		"Parking" : "1",
+		"Metro" : "0",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "SKM",
+		"Nation" : "Nhetherlands",
+		"City" : "Amsterdam",
+		"ZipCode" : "30627",
+		"NofAirstrips" : 6,
+		"Parking" : "1",
+		"Metro" : "1",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "SNW",
+		"Nation" : "Croatia",
+		"City" : "Gračec",
+		"ZipCode" : "52272",
+		"NofAirstrips" : 2,
+		"Parking" : "1",
+		"Metro" : "1",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "SRJ",
+		"Nation" : "Germany",
+		"City" : "Berlin",
+		"ZipCode" : "73476",
+		"NofAirstrips" : 5,
+		"Parking" : "0",
+		"Metro" : "0",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "SRT",
+		"Nation" : "Portugal",
+		"City" : "Oporto",
+		"ZipCode" : "56475",
+		"NofAirstrips" : 3,
+		"Parking" : "0",
+		"Metro" : "0",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "STB",
+		"Nation" : "Switzerland",
+		"City" : "Bern",
+		"ZipCode" : "99604",
+		"NofAirstrips" : 8,
+		"Parking" : "0",
+		"Metro" : "0",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "TLL",
+		"Nation" : "Denmark",
+		"City" : "Odense",
+		"ZipCode" : "59997",
+		"NofAirstrips" : 9,
+		"Parking" : "1",
+		"Metro" : "0",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "TMN",
+		"Nation" : "Finland",
+		"City" : "Helsinki",
+		"ZipCode" : "12216",
+		"NofAirstrips" : 2,
+		"Parking" : "1",
+		"Metro" : "1",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "TXY",
+		"Nation" : "Italy",
+		"City" : "Venice",
+		"ZipCode" : "52426",
+		"NofAirstrips" : 8,
+		"Parking" : "1",
+		"Metro" : "1",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "UIP",
+		"Nation" : "Sweden",
+		"City" : "Solna",
+		"ZipCode" : "58239",
+		"NofAirstrips" : 9,
+		"Parking" : "1",
+		"Metro" : "0",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "UKR",
+		"Nation" : "Italy",
+		"City" : "Turin",
+		"ZipCode" : "03454",
+		"NofAirstrips" : 1,
+		"Parking" : "1",
+		"Metro" : "0",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "UNI",
+		"Nation" : "Slovenia",
+		"City" : "Ljubljana",
+		"ZipCode" : "17936",
+		"NofAirstrips" : 8,
+		"Parking" : "1",
+		"Metro" : "0",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "VCG",
+		"Nation" : "Spain",
+		"City" : "Seville",
+		"ZipCode" : "00668",
+		"NofAirstrips" : 9,
+		"Parking" : "1",
+		"Metro" : "0",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "VDR",
+		"Nation" : "United Kingdom",
+		"City" : "Belfast",
+		"ZipCode" : "28148",
+		"NofAirstrips" : 8,
+		"Parking" : "0",
+		"Metro" : "0",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "VKE",
+		"Nation" : "France",
+		"City" : "Nantes",
+		"ZipCode" : "46857",
+		"NofAirstrips" : 5,
+		"Parking" : "1",
+		"Metro" : "1",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "WDX",
+		"Nation" : "Sweden",
+		"City" : "Stockholm",
+		"ZipCode" : "43069",
+		"NofAirstrips" : 9,
+		"Parking" : "1",
+		"Metro" : "1",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "WTZ",
+		"Nation" : "United Kingdom",
+		"City" : "Liverpool",
+		"ZipCode" : "06118",
+		"NofAirstrips" : 1,
+		"Parking" : "0",
+		"Metro" : "1",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "WWI",
+		"Nation" : "Sweden",
+		"City" : "Ystad",
+		"ZipCode" : "26166",
+		"NofAirstrips" : 6,
+		"Parking" : "0",
+		"Metro" : "1",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "XCF",
+		"Nation" : "Finland",
+		"City" : "Isojoki",
+		"ZipCode" : "37481",
+		"NofAirstrips" : 3,
+		"Parking" : "0",
+		"Metro" : "1",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "XGO",
+		"Nation" : "Albania",
+		"City" : "Tirana",
+		"ZipCode" : "50320",
+		"NofAirstrips" : 2,
+		"Parking" : "1",
+		"Metro" : "1",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "XJG",
+		"Nation" : "Iceland",
+		"City" : "Reyjavík",
+		"ZipCode" : "88015",
+		"NofAirstrips" : 6,
+		"Parking" : "1",
+		"Metro" : "1",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "XOL",
+		"Nation" : "France",
+		"City" : "Montpellier",
+		"ZipCode" : "47401",
+		"NofAirstrips" : 3,
+		"Parking" : "1",
+		"Metro" : "0",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "XQG",
+		"Nation" : "Poland",
+		"City" : "Zwierzyń",
+		"ZipCode" : "77917",
+		"NofAirstrips" : 3,
+		"Parking" : "1",
+		"Metro" : "1",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "XYN",
+		"Nation" : "Norway",
+		"City" : "Oslo",
+		"ZipCode" : "86975",
+		"NofAirstrips" : 1,
+		"Parking" : "0",
+		"Metro" : "1",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "YCS",
+		"Nation" : "Finland",
+		"City" : "Sammatti",
+		"ZipCode" : "29707",
+		"NofAirstrips" : 4,
+		"Parking" : "0",
+		"Metro" : "0",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "YGN",
+		"Nation" : "Greece",
+		"City" : "Athens",
+		"ZipCode" : "20717",
+		"NofAirstrips" : 3,
+		"Parking" : "0",
+		"Metro" : "0",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "YHR",
+		"Nation" : "Ukraine",
+		"City" : "Mariupol",
+		"ZipCode" : "05021",
+		"NofAirstrips" : 7,
+		"Parking" : "0",
+		"Metro" : "0",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "YTW",
+		"Nation" : "Romania",
+		"City" : "Bucarest",
+		"ZipCode" : "79719",
+		"NofAirstrips" : 1,
+		"Parking" : "1",
+		"Metro" : "1",
+		"BusStation" : "0"
+	},
+	{
+		"AirportCode" : "ZJI",
+		"Nation" : "Portugal",
+		"City" : "Lisbona",
+		"ZipCode" : "55128",
+		"NofAirstrips" : 5,
+		"Parking" : "0",
+		"Metro" : "1",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "ZKV",
+		"Nation" : "Ukraine",
+		"City" : "Zhashkiv",
+		"ZipCode" : "53456",
+		"NofAirstrips" : 10,
+		"Parking" : "1",
+		"Metro" : "1",
+		"BusStation" : "1"
+	},
+	{
+		"AirportCode" : "ZRW",
+		"Nation" : "France",
+		"City" : "Lille",
+		"ZipCode" : "79021",
+		"NofAirstrips" : 10,
+		"Parking" : "1",
+		"Metro" : "0",
+		"BusStation" : "0"
+	}
+]

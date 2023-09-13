@@ -1,0 +1,282 @@
+[
+	{
+		"SerialNumber" : "044",
+		"ModelManufacturer" : "Konopelski-Doyle",
+		"ModelTag" : "D-654",
+		"NofSeats" : 84,
+		"PurchaseDate" : "2021-06-18"
+	},
+	{
+		"SerialNumber" : "130",
+		"ModelManufacturer" : "Senger, Schmeler and Ankunding",
+		"ModelTag" : "I-038",
+		"NofSeats" : 76,
+		"PurchaseDate" : "2021-04-01"
+	},
+	{
+		"SerialNumber" : "140",
+		"ModelManufacturer" : "Rau LLC",
+		"ModelTag" : "F-122",
+		"NofSeats" : 80,
+		"PurchaseDate" : "2019-07-22"
+	},
+	{
+		"SerialNumber" : "156",
+		"ModelManufacturer" : "Altenwerth and Sons",
+		"ModelTag" : "G-744",
+		"NofSeats" : 81,
+		"PurchaseDate" : "2019-07-20"
+	},
+	{
+		"SerialNumber" : "184",
+		"ModelManufacturer" : "Daugherty-Stracke",
+		"ModelTag" : "M-231",
+		"NofSeats" : 96,
+		"PurchaseDate" : "2017-06-05"
+	},
+	{
+		"SerialNumber" : "193",
+		"ModelManufacturer" : "Bins Inc",
+		"ModelTag" : "X-479",
+		"NofSeats" : 86,
+		"PurchaseDate" : "2020-10-24"
+	},
+	{
+		"SerialNumber" : "221",
+		"ModelManufacturer" : "Schuppe-Reichert",
+		"ModelTag" : "U-026",
+		"NofSeats" : 87,
+		"PurchaseDate" : "2020-02-03"
+	},
+	{
+		"SerialNumber" : "268",
+		"ModelManufacturer" : "Kiehn-Larkin",
+		"ModelTag" : "K-499",
+		"NofSeats" : 83,
+		"PurchaseDate" : "2020-01-28"
+	},
+	{
+		"SerialNumber" : "271",
+		"ModelManufacturer" : "Crona, McLaughlin and Goldner",
+		"ModelTag" : "Z-760",
+		"NofSeats" : 87,
+		"PurchaseDate" : "2021-10-05"
+	},
+	{
+		"SerialNumber" : "273",
+		"ModelManufacturer" : "Schamberger, Anderson and Rippin",
+		"ModelTag" : "O-486",
+		"NofSeats" : 88,
+		"PurchaseDate" : "2016-02-16"
+	},
+	{
+		"SerialNumber" : "322",
+		"ModelManufacturer" : "Koelpin-Farrell",
+		"ModelTag" : "I-610",
+		"NofSeats" : 89,
+		"PurchaseDate" : "2017-09-16"
+	},
+	{
+		"SerialNumber" : "328",
+		"ModelManufacturer" : "Konopelski-Reinger",
+		"ModelTag" : "U-585",
+		"NofSeats" : 96,
+		"PurchaseDate" : "2021-12-18"
+	},
+	{
+		"SerialNumber" : "338",
+		"ModelManufacturer" : "Frami, Wisozk and Zboncak",
+		"ModelTag" : "R-932",
+		"NofSeats" : 80,
+		"PurchaseDate" : "2017-10-30"
+	},
+	{
+		"SerialNumber" : "380",
+		"ModelManufacturer" : "Dicki LLC",
+		"ModelTag" : "H-843",
+		"NofSeats" : 82,
+		"PurchaseDate" : "2016-02-07"
+	},
+	{
+		"SerialNumber" : "394",
+		"ModelManufacturer" : "Fadel Inc",
+		"ModelTag" : "S-278",
+		"NofSeats" : 84,
+		"PurchaseDate" : "2018-12-12"
+	},
+	{
+		"SerialNumber" : "458",
+		"ModelManufacturer" : "Greenholt Inc",
+		"ModelTag" : "U-048",
+		"NofSeats" : 94,
+		"PurchaseDate" : "2021-11-25"
+	},
+	{
+		"SerialNumber" : "485",
+		"ModelManufacturer" : "Hauck-Morar",
+		"ModelTag" : "Z-232",
+		"NofSeats" : 99,
+		"PurchaseDate" : "2021-11-12"
+	},
+	{
+		"SerialNumber" : "568",
+		"ModelManufacturer" : "Mann-Dicki",
+		"ModelTag" : "B-616",
+		"NofSeats" : 79,
+		"PurchaseDate" : "2016-03-25"
+	},
+	{
+		"SerialNumber" : "573",
+		"ModelManufacturer" : "Hintz and Sons",
+		"ModelTag" : "C-398",
+		"NofSeats" : 76,
+		"PurchaseDate" : "2019-04-24"
+	},
+	{
+		"SerialNumber" : "594",
+		"ModelManufacturer" : "Walsh and Sons",
+		"ModelTag" : "K-279",
+		"NofSeats" : 97,
+		"PurchaseDate" : "2018-01-16"
+	},
+	{
+		"SerialNumber" : "599",
+		"ModelManufacturer" : "Becker-Skiles",
+		"ModelTag" : "B-600",
+		"NofSeats" : 88,
+		"PurchaseDate" : "2019-12-09"
+	},
+	{
+		"SerialNumber" : "612",
+		"ModelManufacturer" : "Shanahan Inc",
+		"ModelTag" : "N-267",
+		"NofSeats" : 87,
+		"PurchaseDate" : "2016-12-06"
+	},
+	{
+		"SerialNumber" : "624",
+		"ModelManufacturer" : "Green-Marvin",
+		"ModelTag" : "V-486",
+		"NofSeats" : 99,
+		"PurchaseDate" : "2019-07-15"
+	},
+	{
+		"SerialNumber" : "659",
+		"ModelManufacturer" : "Upton LLC",
+		"ModelTag" : "H-763",
+		"NofSeats" : 78,
+		"PurchaseDate" : "2020-02-28"
+	},
+	{
+		"SerialNumber" : "667",
+		"ModelManufacturer" : "Mohr, O'Hara and Keeling",
+		"ModelTag" : "H-721",
+		"NofSeats" : 100,
+		"PurchaseDate" : "2016-03-16"
+	},
+	{
+		"SerialNumber" : "707",
+		"ModelManufacturer" : "Koch, Kuphal and Armstrong",
+		"ModelTag" : "N-853",
+		"NofSeats" : 94,
+		"PurchaseDate" : "2016-10-16"
+	},
+	{
+		"SerialNumber" : "718",
+		"ModelManufacturer" : "Bradtke-Boyer",
+		"ModelTag" : "Y-646",
+		"NofSeats" : 95,
+		"PurchaseDate" : "2020-11-22"
+	},
+	{
+		"SerialNumber" : "729",
+		"ModelManufacturer" : "McDermott-Corwin",
+		"ModelTag" : "F-059",
+		"NofSeats" : 87,
+		"PurchaseDate" : "2020-11-13"
+	},
+	{
+		"SerialNumber" : "744",
+		"ModelManufacturer" : "Rolfson and Sons",
+		"ModelTag" : "B-478",
+		"NofSeats" : 82,
+		"PurchaseDate" : "2017-01-16"
+	},
+	{
+		"SerialNumber" : "806",
+		"ModelManufacturer" : "Johns, Jerde and Bernier",
+		"ModelTag" : "J-672",
+		"NofSeats" : 90,
+		"PurchaseDate" : "2018-09-10"
+	},
+	{
+		"SerialNumber" : "833",
+		"ModelManufacturer" : "McClure and Sons",
+		"ModelTag" : "A-940",
+		"NofSeats" : 89,
+		"PurchaseDate" : "2019-09-29"
+	},
+	{
+		"SerialNumber" : "847",
+		"ModelManufacturer" : "Collier-Ankunding",
+		"ModelTag" : "W-748",
+		"NofSeats" : 80,
+		"PurchaseDate" : "2020-01-06"
+	},
+	{
+		"SerialNumber" : "858",
+		"ModelManufacturer" : "Thompson-Ankunding",
+		"ModelTag" : "U-451",
+		"NofSeats" : 75,
+		"PurchaseDate" : "2021-12-10"
+	},
+	{
+		"SerialNumber" : "880",
+		"ModelManufacturer" : "Osinski-Quigley",
+		"ModelTag" : "Z-675",
+		"NofSeats" : 96,
+		"PurchaseDate" : "2017-10-19"
+	},
+	{
+		"SerialNumber" : "883",
+		"ModelManufacturer" : "Hintz-Schuster",
+		"ModelTag" : "A-211",
+		"NofSeats" : 75,
+		"PurchaseDate" : "2017-08-09"
+	},
+	{
+		"SerialNumber" : "932",
+		"ModelManufacturer" : "Leannon, Stroman and Mueller",
+		"ModelTag" : "I-452",
+		"NofSeats" : 99,
+		"PurchaseDate" : "2020-06-02"
+	},
+	{
+		"SerialNumber" : "934",
+		"ModelManufacturer" : "Lang Group",
+		"ModelTag" : "Q-429",
+		"NofSeats" : 82,
+		"PurchaseDate" : "2018-11-27"
+	},
+	{
+		"SerialNumber" : "944",
+		"ModelManufacturer" : "Orn-Russel",
+		"ModelTag" : "N-863",
+		"NofSeats" : 97,
+		"PurchaseDate" : "2017-06-02"
+	},
+	{
+		"SerialNumber" : "947",
+		"ModelManufacturer" : "Ledner Inc",
+		"ModelTag" : "D-920",
+		"NofSeats" : 97,
+		"PurchaseDate" : "2021-10-14"
+	},
+	{
+		"SerialNumber" : "960",
+		"ModelManufacturer" : "Little Group",
+		"ModelTag" : "B-134",
+		"NofSeats" : 78,
+		"PurchaseDate" : "2021-08-21"
+	}
+]

@@ -1,0 +1,2402 @@
+[
+	{
+		"BaggageID" : "B-0051",
+		"BaggageType" : "Carry-on",
+		"Weight" : 2,
+		"TicketBarCode" : "8 5568 20667"
+	},
+	{
+		"BaggageID" : "B-0063",
+		"BaggageType" : "Carry-on",
+		"Weight" : 9,
+		"TicketBarCode" : "8 5875 91014"
+	},
+	{
+		"BaggageID" : "B-0066",
+		"BaggageType" : "Carry-on",
+		"Weight" : 8,
+		"TicketBarCode" : "8 8467 34888"
+	},
+	{
+		"BaggageID" : "B-0078",
+		"BaggageType" : "Carry-on",
+		"Weight" : 9,
+		"TicketBarCode" : "8 1611 02316"
+	},
+	{
+		"BaggageID" : "B-0106",
+		"BaggageType" : "Carry-on",
+		"Weight" : 3,
+		"TicketBarCode" : "8 5254 92900"
+	},
+	{
+		"BaggageID" : "B-0116",
+		"BaggageType" : "Carry-on",
+		"Weight" : 2,
+		"TicketBarCode" : "8 7714 91572"
+	},
+	{
+		"BaggageID" : "B-0117",
+		"BaggageType" : "Checked",
+		"Weight" : 14,
+		"TicketBarCode" : "8 4916 40284"
+	},
+	{
+		"BaggageID" : "B-0122",
+		"BaggageType" : "Checked",
+		"Weight" : 17,
+		"TicketBarCode" : "8 6637 82708"
+	},
+	{
+		"BaggageID" : "B-0124",
+		"BaggageType" : "Carry-on",
+		"Weight" : 7,
+		"TicketBarCode" : "8 7183 58140"
+	},
+	{
+		"BaggageID" : "B-0183",
+		"BaggageType" : "Carry-on",
+		"Weight" : 4,
+		"TicketBarCode" : "8 4245 13881"
+	},
+	{
+		"BaggageID" : "B-0334",
+		"BaggageType" : "Checked",
+		"Weight" : 17,
+		"TicketBarCode" : "8 1473 34926"
+	},
+	{
+		"BaggageID" : "B-0350",
+		"BaggageType" : "Checked",
+		"Weight" : 14,
+		"TicketBarCode" : "8 2440 46496"
+	},
+	{
+		"BaggageID" : "B-0384",
+		"BaggageType" : "Carry-on",
+		"Weight" : 3,
+		"TicketBarCode" : "8 9585 98334"
+	},
+	{
+		"BaggageID" : "B-0396",
+		"BaggageType" : "Checked",
+		"Weight" : 19,
+		"TicketBarCode" : "8 6181 79003"
+	},
+	{
+		"BaggageID" : "B-0398",
+		"BaggageType" : "Checked",
+		"Weight" : 11,
+		"TicketBarCode" : "8 8337 68116"
+	},
+	{
+		"BaggageID" : "B-0399",
+		"BaggageType" : "Carry-on",
+		"Weight" : 1,
+		"TicketBarCode" : "8 7816 43737"
+	},
+	{
+		"BaggageID" : "B-0420",
+		"BaggageType" : "Checked",
+		"Weight" : 17,
+		"TicketBarCode" : "8 1064 15380"
+	},
+	{
+		"BaggageID" : "B-0483",
+		"BaggageType" : "Carry-on",
+		"Weight" : 5,
+		"TicketBarCode" : "8 7985 51689"
+	},
+	{
+		"BaggageID" : "B-0569",
+		"BaggageType" : "Checked",
+		"Weight" : 14,
+		"TicketBarCode" : "8 0123 91045"
+	},
+	{
+		"BaggageID" : "B-0584",
+		"BaggageType" : "Checked",
+		"Weight" : 16,
+		"TicketBarCode" : "8 5651 45860"
+	},
+	{
+		"BaggageID" : "B-0601",
+		"BaggageType" : "Checked",
+		"Weight" : 18,
+		"TicketBarCode" : "8 6552 25907"
+	},
+	{
+		"BaggageID" : "B-0611",
+		"BaggageType" : "Checked",
+		"Weight" : 16,
+		"TicketBarCode" : "8 8623 77490"
+	},
+	{
+		"BaggageID" : "B-0650",
+		"BaggageType" : "Checked",
+		"Weight" : 16,
+		"TicketBarCode" : "8 7931 50872"
+	},
+	{
+		"BaggageID" : "B-0671",
+		"BaggageType" : "Checked",
+		"Weight" : 16,
+		"TicketBarCode" : "8 0129 23778"
+	},
+	{
+		"BaggageID" : "B-0674",
+		"BaggageType" : "Checked",
+		"Weight" : 15,
+		"TicketBarCode" : "8 8533 27517"
+	},
+	{
+		"BaggageID" : "B-0676",
+		"BaggageType" : "Carry-on",
+		"Weight" : 4,
+		"TicketBarCode" : "8 7967 13452"
+	},
+	{
+		"BaggageID" : "B-0677",
+		"BaggageType" : "Carry-on",
+		"Weight" : 2,
+		"TicketBarCode" : "8 8836 44139"
+	},
+	{
+		"BaggageID" : "B-0727",
+		"BaggageType" : "Carry-on",
+		"Weight" : 4,
+		"TicketBarCode" : "8 1475 19833"
+	},
+	{
+		"BaggageID" : "B-0734",
+		"BaggageType" : "Checked",
+		"Weight" : 18,
+		"TicketBarCode" : "8 6730 47796"
+	},
+	{
+		"BaggageID" : "B-0752",
+		"BaggageType" : "Carry-on",
+		"Weight" : 4,
+		"TicketBarCode" : "8 5391 14313"
+	},
+	{
+		"BaggageID" : "B-0758",
+		"BaggageType" : "Checked",
+		"Weight" : 11,
+		"TicketBarCode" : "8 9112 91012"
+	},
+	{
+		"BaggageID" : "B-0760",
+		"BaggageType" : "Carry-on",
+		"Weight" : 1,
+		"TicketBarCode" : "8 7583 60048"
+	},
+	{
+		"BaggageID" : "B-0804",
+		"BaggageType" : "Checked",
+		"Weight" : 14,
+		"TicketBarCode" : "8 3893 87411"
+	},
+	{
+		"BaggageID" : "B-0818",
+		"BaggageType" : "Carry-on",
+		"Weight" : 8,
+		"TicketBarCode" : "8 6048 09544"
+	},
+	{
+		"BaggageID" : "B-0823",
+		"BaggageType" : "Carry-on",
+		"Weight" : 1,
+		"TicketBarCode" : "8 7314 97859"
+	},
+	{
+		"BaggageID" : "B-0832",
+		"BaggageType" : "Checked",
+		"Weight" : 13,
+		"TicketBarCode" : "8 1518 00767"
+	},
+	{
+		"BaggageID" : "B-0848",
+		"BaggageType" : "Carry-on",
+		"Weight" : 4,
+		"TicketBarCode" : "8 4718 87230"
+	},
+	{
+		"BaggageID" : "B-0915",
+		"BaggageType" : "Carry-on",
+		"Weight" : 5,
+		"TicketBarCode" : "8 9421 44074"
+	},
+	{
+		"BaggageID" : "B-0993",
+		"BaggageType" : "Carry-on",
+		"Weight" : 6,
+		"TicketBarCode" : "8 0499 52221"
+	},
+	{
+		"BaggageID" : "B-1033",
+		"BaggageType" : "Carry-on",
+		"Weight" : 7,
+		"TicketBarCode" : "8 0636 71789"
+	},
+	{
+		"BaggageID" : "B-1047",
+		"BaggageType" : "Checked",
+		"Weight" : 18,
+		"TicketBarCode" : "8 3596 44503"
+	},
+	{
+		"BaggageID" : "B-1072",
+		"BaggageType" : "Checked",
+		"Weight" : 12,
+		"TicketBarCode" : "8 5075 48687"
+	},
+	{
+		"BaggageID" : "B-1094",
+		"BaggageType" : "Checked",
+		"Weight" : 17,
+		"TicketBarCode" : "8 1877 42576"
+	},
+	{
+		"BaggageID" : "B-1099",
+		"BaggageType" : "Carry-on",
+		"Weight" : 9,
+		"TicketBarCode" : "8 6676 15205"
+	},
+	{
+		"BaggageID" : "B-1112",
+		"BaggageType" : "Carry-on",
+		"Weight" : 7,
+		"TicketBarCode" : "8 8889 56264"
+	},
+	{
+		"BaggageID" : "B-1113",
+		"BaggageType" : "Checked",
+		"Weight" : 11,
+		"TicketBarCode" : "8 8889 56264"
+	},
+	{
+		"BaggageID" : "B-1115",
+		"BaggageType" : "Carry-on",
+		"Weight" : 5,
+		"TicketBarCode" : "8 0238 54843"
+	},
+	{
+		"BaggageID" : "B-1211",
+		"BaggageType" : "Carry-on",
+		"Weight" : 3,
+		"TicketBarCode" : "8 3457 67046"
+	},
+	{
+		"BaggageID" : "B-1218",
+		"BaggageType" : "Carry-on",
+		"Weight" : 5,
+		"TicketBarCode" : "8 0499 52221"
+	},
+	{
+		"BaggageID" : "B-1239",
+		"BaggageType" : "Carry-on",
+		"Weight" : 2,
+		"TicketBarCode" : "8 8272 28053"
+	},
+	{
+		"BaggageID" : "B-1244",
+		"BaggageType" : "Checked",
+		"Weight" : 14,
+		"TicketBarCode" : "8 1283 96275"
+	},
+	{
+		"BaggageID" : "B-1264",
+		"BaggageType" : "Carry-on",
+		"Weight" : 4,
+		"TicketBarCode" : "8 7583 60048"
+	},
+	{
+		"BaggageID" : "B-1355",
+		"BaggageType" : "Carry-on",
+		"Weight" : 8,
+		"TicketBarCode" : "8 0134 50547"
+	},
+	{
+		"BaggageID" : "B-1365",
+		"BaggageType" : "Checked",
+		"Weight" : 12,
+		"TicketBarCode" : "8 4224 62322"
+	},
+	{
+		"BaggageID" : "B-1384",
+		"BaggageType" : "Carry-on",
+		"Weight" : 3,
+		"TicketBarCode" : "8 5672 55341"
+	},
+	{
+		"BaggageID" : "B-1423",
+		"BaggageType" : "Carry-on",
+		"Weight" : 5,
+		"TicketBarCode" : "8 9303 77330"
+	},
+	{
+		"BaggageID" : "B-1461",
+		"BaggageType" : "Checked",
+		"Weight" : 14,
+		"TicketBarCode" : "8 0123 91045"
+	},
+	{
+		"BaggageID" : "B-1487",
+		"BaggageType" : "Carry-on",
+		"Weight" : 1,
+		"TicketBarCode" : "8 2643 62924"
+	},
+	{
+		"BaggageID" : "B-1493",
+		"BaggageType" : "Checked",
+		"Weight" : 18,
+		"TicketBarCode" : "8 6644 84318"
+	},
+	{
+		"BaggageID" : "B-1499",
+		"BaggageType" : "Checked",
+		"Weight" : 12,
+		"TicketBarCode" : "8 1925 09919"
+	},
+	{
+		"BaggageID" : "B-1515",
+		"BaggageType" : "Checked",
+		"Weight" : 12,
+		"TicketBarCode" : "8 6953 18545"
+	},
+	{
+		"BaggageID" : "B-1558",
+		"BaggageType" : "Checked",
+		"Weight" : 19,
+		"TicketBarCode" : "8 2158 83586"
+	},
+	{
+		"BaggageID" : "B-1573",
+		"BaggageType" : "Checked",
+		"Weight" : 16,
+		"TicketBarCode" : "8 2741 61291"
+	},
+	{
+		"BaggageID" : "B-1581",
+		"BaggageType" : "Carry-on",
+		"Weight" : 5,
+		"TicketBarCode" : "8 2238 13303"
+	},
+	{
+		"BaggageID" : "B-1595",
+		"BaggageType" : "Checked",
+		"Weight" : 14,
+		"TicketBarCode" : "8 6718 55978"
+	},
+	{
+		"BaggageID" : "B-1612",
+		"BaggageType" : "Carry-on",
+		"Weight" : 3,
+		"TicketBarCode" : "8 0218 66434"
+	},
+	{
+		"BaggageID" : "B-1614",
+		"BaggageType" : "Checked",
+		"Weight" : 19,
+		"TicketBarCode" : "8 5075 48687"
+	},
+	{
+		"BaggageID" : "B-1681",
+		"BaggageType" : "Checked",
+		"Weight" : 16,
+		"TicketBarCode" : "8 7623 94753"
+	},
+	{
+		"BaggageID" : "B-1696",
+		"BaggageType" : "Carry-on",
+		"Weight" : 2,
+		"TicketBarCode" : "8 4210 16886"
+	},
+	{
+		"BaggageID" : "B-1844",
+		"BaggageType" : "Checked",
+		"Weight" : 13,
+		"TicketBarCode" : "8 5698 01090"
+	},
+	{
+		"BaggageID" : "B-1858",
+		"BaggageType" : "Checked",
+		"Weight" : 11,
+		"TicketBarCode" : "8 4652 24878"
+	},
+	{
+		"BaggageID" : "B-1860",
+		"BaggageType" : "Carry-on",
+		"Weight" : 3,
+		"TicketBarCode" : "8 2550 66764"
+	},
+	{
+		"BaggageID" : "B-1872",
+		"BaggageType" : "Checked",
+		"Weight" : 18,
+		"TicketBarCode" : "8 4245 13881"
+	},
+	{
+		"BaggageID" : "B-1873",
+		"BaggageType" : "Checked",
+		"Weight" : 15,
+		"TicketBarCode" : "8 1925 09919"
+	},
+	{
+		"BaggageID" : "B-1914",
+		"BaggageType" : "Checked",
+		"Weight" : 13,
+		"TicketBarCode" : "8 0904 68270"
+	},
+	{
+		"BaggageID" : "B-1944",
+		"BaggageType" : "Checked",
+		"Weight" : 18,
+		"TicketBarCode" : "8 9328 29954"
+	},
+	{
+		"BaggageID" : "B-1976",
+		"BaggageType" : "Checked",
+		"Weight" : 16,
+		"TicketBarCode" : "8 5804 03002"
+	},
+	{
+		"BaggageID" : "B-1982",
+		"BaggageType" : "Carry-on",
+		"Weight" : 7,
+		"TicketBarCode" : "8 3179 25695"
+	},
+	{
+		"BaggageID" : "B-1983",
+		"BaggageType" : "Carry-on",
+		"Weight" : 7,
+		"TicketBarCode" : "8 2311 94373"
+	},
+	{
+		"BaggageID" : "B-2082",
+		"BaggageType" : "Carry-on",
+		"Weight" : 9,
+		"TicketBarCode" : "8 3639 21219"
+	},
+	{
+		"BaggageID" : "B-2099",
+		"BaggageType" : "Carry-on",
+		"Weight" : 9,
+		"TicketBarCode" : "8 2114 68685"
+	},
+	{
+		"BaggageID" : "B-2107",
+		"BaggageType" : "Carry-on",
+		"Weight" : 3,
+		"TicketBarCode" : "8 9556 29273"
+	},
+	{
+		"BaggageID" : "B-2149",
+		"BaggageType" : "Checked",
+		"Weight" : 18,
+		"TicketBarCode" : "8 4224 62322"
+	},
+	{
+		"BaggageID" : "B-2154",
+		"BaggageType" : "Checked",
+		"Weight" : 13,
+		"TicketBarCode" : "8 1086 26124"
+	},
+	{
+		"BaggageID" : "B-2171",
+		"BaggageType" : "Checked",
+		"Weight" : 16,
+		"TicketBarCode" : "8 3079 89672"
+	},
+	{
+		"BaggageID" : "B-2207",
+		"BaggageType" : "Checked",
+		"Weight" : 18,
+		"TicketBarCode" : "8 2485 83884"
+	},
+	{
+		"BaggageID" : "B-2212",
+		"BaggageType" : "Carry-on",
+		"Weight" : 1,
+		"TicketBarCode" : "8 3233 28085"
+	},
+	{
+		"BaggageID" : "B-2371",
+		"BaggageType" : "Checked",
+		"Weight" : 17,
+		"TicketBarCode" : "8 7185 06067"
+	},
+	{
+		"BaggageID" : "B-2382",
+		"BaggageType" : "Carry-on",
+		"Weight" : 4,
+		"TicketBarCode" : "8 6229 25391"
+	},
+	{
+		"BaggageID" : "B-2391",
+		"BaggageType" : "Checked",
+		"Weight" : 20,
+		"TicketBarCode" : "8 8130 08713"
+	},
+	{
+		"BaggageID" : "B-2418",
+		"BaggageType" : "Checked",
+		"Weight" : 14,
+		"TicketBarCode" : "8 0636 71789"
+	},
+	{
+		"BaggageID" : "B-2442",
+		"BaggageType" : "Carry-on",
+		"Weight" : 2,
+		"TicketBarCode" : "8 4371 05461"
+	},
+	{
+		"BaggageID" : "B-2563",
+		"BaggageType" : "Checked",
+		"Weight" : 10,
+		"TicketBarCode" : "8 3865 96069"
+	},
+	{
+		"BaggageID" : "B-2567",
+		"BaggageType" : "Checked",
+		"Weight" : 17,
+		"TicketBarCode" : "8 2841 38267"
+	},
+	{
+		"BaggageID" : "B-2619",
+		"BaggageType" : "Checked",
+		"Weight" : 20,
+		"TicketBarCode" : "8 9820 79959"
+	},
+	{
+		"BaggageID" : "B-2629",
+		"BaggageType" : "Checked",
+		"Weight" : 13,
+		"TicketBarCode" : "8 9392 70902"
+	},
+	{
+		"BaggageID" : "B-2678",
+		"BaggageType" : "Carry-on",
+		"Weight" : 8,
+		"TicketBarCode" : "8 5457 12106"
+	},
+	{
+		"BaggageID" : "B-2681",
+		"BaggageType" : "Checked",
+		"Weight" : 13,
+		"TicketBarCode" : "8 8323 34595"
+	},
+	{
+		"BaggageID" : "B-2720",
+		"BaggageType" : "Checked",
+		"Weight" : 13,
+		"TicketBarCode" : "8 3530 45962"
+	},
+	{
+		"BaggageID" : "B-2721",
+		"BaggageType" : "Carry-on",
+		"Weight" : 2,
+		"TicketBarCode" : "8 9303 77330"
+	},
+	{
+		"BaggageID" : "B-2730",
+		"BaggageType" : "Carry-on",
+		"Weight" : 2,
+		"TicketBarCode" : "8 8631 51684"
+	},
+	{
+		"BaggageID" : "B-2746",
+		"BaggageType" : "Carry-on",
+		"Weight" : 4,
+		"TicketBarCode" : "8 8836 44139"
+	},
+	{
+		"BaggageID" : "B-2761",
+		"BaggageType" : "Checked",
+		"Weight" : 20,
+		"TicketBarCode" : "8 5598 92239"
+	},
+	{
+		"BaggageID" : "B-2804",
+		"BaggageType" : "Checked",
+		"Weight" : 13,
+		"TicketBarCode" : "8 7548 25888"
+	},
+	{
+		"BaggageID" : "B-2813",
+		"BaggageType" : "Checked",
+		"Weight" : 18,
+		"TicketBarCode" : "8 9642 28366"
+	},
+	{
+		"BaggageID" : "B-2817",
+		"BaggageType" : "Checked",
+		"Weight" : 13,
+		"TicketBarCode" : "8 5030 56803"
+	},
+	{
+		"BaggageID" : "B-2858",
+		"BaggageType" : "Checked",
+		"Weight" : 11,
+		"TicketBarCode" : "8 5254 92900"
+	},
+	{
+		"BaggageID" : "B-2898",
+		"BaggageType" : "Carry-on",
+		"Weight" : 2,
+		"TicketBarCode" : "8 6825 35251"
+	},
+	{
+		"BaggageID" : "B-2899",
+		"BaggageType" : "Carry-on",
+		"Weight" : 1,
+		"TicketBarCode" : "8 2649 61683"
+	},
+	{
+		"BaggageID" : "B-2933",
+		"BaggageType" : "Checked",
+		"Weight" : 13,
+		"TicketBarCode" : "8 0446 88505"
+	},
+	{
+		"BaggageID" : "B-2940",
+		"BaggageType" : "Carry-on",
+		"Weight" : 1,
+		"TicketBarCode" : "8 3873 88114"
+	},
+	{
+		"BaggageID" : "B-2978",
+		"BaggageType" : "Carry-on",
+		"Weight" : 2,
+		"TicketBarCode" : "8 5274 67675"
+	},
+	{
+		"BaggageID" : "B-2981",
+		"BaggageType" : "Carry-on",
+		"Weight" : 3,
+		"TicketBarCode" : "8 8467 34888"
+	},
+	{
+		"BaggageID" : "B-3020",
+		"BaggageType" : "Checked",
+		"Weight" : 12,
+		"TicketBarCode" : "8 7394 00670"
+	},
+	{
+		"BaggageID" : "B-3039",
+		"BaggageType" : "Checked",
+		"Weight" : 13,
+		"TicketBarCode" : "8 3272 33195"
+	},
+	{
+		"BaggageID" : "B-3073",
+		"BaggageType" : "Checked",
+		"Weight" : 18,
+		"TicketBarCode" : "8 2373 86390"
+	},
+	{
+		"BaggageID" : "B-3160",
+		"BaggageType" : "Carry-on",
+		"Weight" : 8,
+		"TicketBarCode" : "8 4890 90365"
+	},
+	{
+		"BaggageID" : "B-3176",
+		"BaggageType" : "Carry-on",
+		"Weight" : 2,
+		"TicketBarCode" : "8 0355 60515"
+	},
+	{
+		"BaggageID" : "B-3178",
+		"BaggageType" : "Carry-on",
+		"Weight" : 6,
+		"TicketBarCode" : "8 3488 89809"
+	},
+	{
+		"BaggageID" : "B-3186",
+		"BaggageType" : "Checked",
+		"Weight" : 13,
+		"TicketBarCode" : "8 5778 60823"
+	},
+	{
+		"BaggageID" : "B-3241",
+		"BaggageType" : "Carry-on",
+		"Weight" : 8,
+		"TicketBarCode" : "8 8596 81697"
+	},
+	{
+		"BaggageID" : "B-3311",
+		"BaggageType" : "Carry-on",
+		"Weight" : 4,
+		"TicketBarCode" : "8 7985 51689"
+	},
+	{
+		"BaggageID" : "B-3328",
+		"BaggageType" : "Checked",
+		"Weight" : 16,
+		"TicketBarCode" : "8 5467 85989"
+	},
+	{
+		"BaggageID" : "B-3364",
+		"BaggageType" : "Checked",
+		"Weight" : 3,
+		"TicketBarCode" : "8 7183 58140"
+	},
+	{
+		"BaggageID" : "B-3372",
+		"BaggageType" : "Checked",
+		"Weight" : 12,
+		"TicketBarCode" : "8 1749 82004"
+	},
+	{
+		"BaggageID" : "B-3420",
+		"BaggageType" : "Carry-on",
+		"Weight" : 9,
+		"TicketBarCode" : "8 0760 84320"
+	},
+	{
+		"BaggageID" : "B-3450",
+		"BaggageType" : "Carry-on",
+		"Weight" : 7,
+		"TicketBarCode" : "8 4003 68153"
+	},
+	{
+		"BaggageID" : "B-3486",
+		"BaggageType" : "Checked",
+		"Weight" : 14,
+		"TicketBarCode" : "8 7651 58533"
+	},
+	{
+		"BaggageID" : "B-3507",
+		"BaggageType" : "Carry-on",
+		"Weight" : 9,
+		"TicketBarCode" : "8 5958 60025"
+	},
+	{
+		"BaggageID" : "B-3512",
+		"BaggageType" : "Carry-on",
+		"Weight" : 3,
+		"TicketBarCode" : "8 0617 62780"
+	},
+	{
+		"BaggageID" : "B-3596",
+		"BaggageType" : "Carry-on",
+		"Weight" : 1,
+		"TicketBarCode" : "8 8638 75031"
+	},
+	{
+		"BaggageID" : "B-3598",
+		"BaggageType" : "Carry-on",
+		"Weight" : 5,
+		"TicketBarCode" : "8 7095 86624"
+	},
+	{
+		"BaggageID" : "B-3605",
+		"BaggageType" : "Carry-on",
+		"Weight" : 8,
+		"TicketBarCode" : "8 3639 21219"
+	},
+	{
+		"BaggageID" : "B-3667",
+		"BaggageType" : "Checked",
+		"Weight" : 16,
+		"TicketBarCode" : "8 9112 91012"
+	},
+	{
+		"BaggageID" : "B-3691",
+		"BaggageType" : "Checked",
+		"Weight" : 10,
+		"TicketBarCode" : "8 7119 22298"
+	},
+	{
+		"BaggageID" : "B-3696",
+		"BaggageType" : "Checked",
+		"Weight" : 17,
+		"TicketBarCode" : "8 5919 81456"
+	},
+	{
+		"BaggageID" : "B-3705",
+		"BaggageType" : "Checked",
+		"Weight" : 12,
+		"TicketBarCode" : "8 0611 43734"
+	},
+	{
+		"BaggageID" : "B-3729",
+		"BaggageType" : "Carry-on",
+		"Weight" : 7,
+		"TicketBarCode" : "8 4892 85887"
+	},
+	{
+		"BaggageID" : "B-3773",
+		"BaggageType" : "Checked",
+		"Weight" : 12,
+		"TicketBarCode" : "8 5651 31907"
+	},
+	{
+		"BaggageID" : "B-3799",
+		"BaggageType" : "Checked",
+		"Weight" : 19,
+		"TicketBarCode" : "8 5695 73458"
+	},
+	{
+		"BaggageID" : "B-3836",
+		"BaggageType" : "Checked",
+		"Weight" : 12,
+		"TicketBarCode" : "8 2516 56273"
+	},
+	{
+		"BaggageID" : "B-3843",
+		"BaggageType" : "Checked",
+		"Weight" : 18,
+		"TicketBarCode" : "8 7776 64879"
+	},
+	{
+		"BaggageID" : "B-3881",
+		"BaggageType" : "Carry-on",
+		"Weight" : 4,
+		"TicketBarCode" : "8 8596 81697"
+	},
+	{
+		"BaggageID" : "B-3995",
+		"BaggageType" : "Checked",
+		"Weight" : 19,
+		"TicketBarCode" : "8 3628 64878"
+	},
+	{
+		"BaggageID" : "B-4003",
+		"BaggageType" : "Carry-on",
+		"Weight" : 1,
+		"TicketBarCode" : "8 0055 21662"
+	},
+	{
+		"BaggageID" : "B-4019",
+		"BaggageType" : "Carry-on",
+		"Weight" : 6,
+		"TicketBarCode" : "8 8263 89511"
+	},
+	{
+		"BaggageID" : "B-4052",
+		"BaggageType" : "Carry-on",
+		"Weight" : 2,
+		"TicketBarCode" : "8 4892 85887"
+	},
+	{
+		"BaggageID" : "B-4066",
+		"BaggageType" : "Checked",
+		"Weight" : 11,
+		"TicketBarCode" : "8 9346 02513"
+	},
+	{
+		"BaggageID" : "B-4081",
+		"BaggageType" : "Checked",
+		"Weight" : 12,
+		"TicketBarCode" : "8 5804 03002"
+	},
+	{
+		"BaggageID" : "B-4114",
+		"BaggageType" : "Carry-on",
+		"Weight" : 1,
+		"TicketBarCode" : "8 8822 05805"
+	},
+	{
+		"BaggageID" : "B-4127",
+		"BaggageType" : "Checked",
+		"Weight" : 15,
+		"TicketBarCode" : "8 3414 25638"
+	},
+	{
+		"BaggageID" : "B-4174",
+		"BaggageType" : "Checked",
+		"Weight" : 13,
+		"TicketBarCode" : "8 2892 96908"
+	},
+	{
+		"BaggageID" : "B-4200",
+		"BaggageType" : "Checked",
+		"Weight" : 19,
+		"TicketBarCode" : "8 8504 02938"
+	},
+	{
+		"BaggageID" : "B-4224",
+		"BaggageType" : "Carry-on",
+		"Weight" : 6,
+		"TicketBarCode" : "8 1611 02316"
+	},
+	{
+		"BaggageID" : "B-4236",
+		"BaggageType" : "Carry-on",
+		"Weight" : 8,
+		"TicketBarCode" : "8 3808 88767"
+	},
+	{
+		"BaggageID" : "B-4282",
+		"BaggageType" : "Carry-on",
+		"Weight" : 9,
+		"TicketBarCode" : "8 5745 92317"
+	},
+	{
+		"BaggageID" : "B-4288",
+		"BaggageType" : "Carry-on",
+		"Weight" : 8,
+		"TicketBarCode" : "8 0129 23778"
+	},
+	{
+		"BaggageID" : "B-4302",
+		"BaggageType" : "Checked",
+		"Weight" : 13,
+		"TicketBarCode" : "8 0123 91045"
+	},
+	{
+		"BaggageID" : "B-4305",
+		"BaggageType" : "Checked",
+		"Weight" : 16,
+		"TicketBarCode" : "8 1401 65634"
+	},
+	{
+		"BaggageID" : "B-4306",
+		"BaggageType" : "Carry-on",
+		"Weight" : 8,
+		"TicketBarCode" : "8 0938 64123"
+	},
+	{
+		"BaggageID" : "B-4363",
+		"BaggageType" : "Checked",
+		"Weight" : 19,
+		"TicketBarCode" : "8 5967 65545"
+	},
+	{
+		"BaggageID" : "B-4393",
+		"BaggageType" : "Carry-on",
+		"Weight" : 2,
+		"TicketBarCode" : "8 3079 89672"
+	},
+	{
+		"BaggageID" : "B-4394",
+		"BaggageType" : "Checked",
+		"Weight" : 15,
+		"TicketBarCode" : "8 5312 75345"
+	},
+	{
+		"BaggageID" : "B-4406",
+		"BaggageType" : "Carry-on",
+		"Weight" : 2,
+		"TicketBarCode" : "8 4910 82692"
+	},
+	{
+		"BaggageID" : "B-4419",
+		"BaggageType" : "Carry-on",
+		"Weight" : 5,
+		"TicketBarCode" : "8 6666 07028"
+	},
+	{
+		"BaggageID" : "B-4448",
+		"BaggageType" : "Carry-on",
+		"Weight" : 7,
+		"TicketBarCode" : "8 7384 60335"
+	},
+	{
+		"BaggageID" : "B-4461",
+		"BaggageType" : "Carry-on",
+		"Weight" : 9,
+		"TicketBarCode" : "8 2741 61291"
+	},
+	{
+		"BaggageID" : "B-4471",
+		"BaggageType" : "Carry-on",
+		"Weight" : 3,
+		"TicketBarCode" : "8 0398 21990"
+	},
+	{
+		"BaggageID" : "B-4488",
+		"BaggageType" : "Checked",
+		"Weight" : 10,
+		"TicketBarCode" : "8 8850 68547"
+	},
+	{
+		"BaggageID" : "B-4495",
+		"BaggageType" : "Carry-on",
+		"Weight" : 7,
+		"TicketBarCode" : "8 3720 55941"
+	},
+	{
+		"BaggageID" : "B-4509",
+		"BaggageType" : "Checked",
+		"Weight" : 14,
+		"TicketBarCode" : "8 1082 56378"
+	},
+	{
+		"BaggageID" : "B-4568",
+		"BaggageType" : "Checked",
+		"Weight" : 11,
+		"TicketBarCode" : "8 1095 68659"
+	},
+	{
+		"BaggageID" : "B-4569",
+		"BaggageType" : "Carry-on",
+		"Weight" : 6,
+		"TicketBarCode" : "8 8337 68116"
+	},
+	{
+		"BaggageID" : "B-4590",
+		"BaggageType" : "Checked",
+		"Weight" : 16,
+		"TicketBarCode" : "8 8263 89511"
+	},
+	{
+		"BaggageID" : "B-4595",
+		"BaggageType" : "Carry-on",
+		"Weight" : 1,
+		"TicketBarCode" : "8 4358 93930"
+	},
+	{
+		"BaggageID" : "B-4644",
+		"BaggageType" : "Checked",
+		"Weight" : 15,
+		"TicketBarCode" : "8 2095 33083"
+	},
+	{
+		"BaggageID" : "B-4657",
+		"BaggageType" : "Carry-on",
+		"Weight" : 8,
+		"TicketBarCode" : "8 3794 46002"
+	},
+	{
+		"BaggageID" : "B-4665",
+		"BaggageType" : "Checked",
+		"Weight" : 11,
+		"TicketBarCode" : "8 7394 00670"
+	},
+	{
+		"BaggageID" : "B-4698",
+		"BaggageType" : "Carry-on",
+		"Weight" : 4,
+		"TicketBarCode" : "8 3272 33195"
+	},
+	{
+		"BaggageID" : "B-4710",
+		"BaggageType" : "Carry-on",
+		"Weight" : 7,
+		"TicketBarCode" : "8 4718 87230"
+	},
+	{
+		"BaggageID" : "B-4736",
+		"BaggageType" : "Carry-on",
+		"Weight" : 4,
+		"TicketBarCode" : "8 1770 41870"
+	},
+	{
+		"BaggageID" : "B-4805",
+		"BaggageType" : "Carry-on",
+		"Weight" : 8,
+		"TicketBarCode" : "8 5651 45860"
+	},
+	{
+		"BaggageID" : "B-4845",
+		"BaggageType" : "Checked",
+		"Weight" : 19,
+		"TicketBarCode" : "8 6718 55978"
+	},
+	{
+		"BaggageID" : "B-4879",
+		"BaggageType" : "Checked",
+		"Weight" : 17,
+		"TicketBarCode" : "8 8323 34595"
+	},
+	{
+		"BaggageID" : "B-4963",
+		"BaggageType" : "Checked",
+		"Weight" : 13,
+		"TicketBarCode" : "8 7608 27699"
+	},
+	{
+		"BaggageID" : "B-5002",
+		"BaggageType" : "Checked",
+		"Weight" : 18,
+		"TicketBarCode" : "8 2480 32348"
+	},
+	{
+		"BaggageID" : "B-5103",
+		"BaggageType" : "Carry-on",
+		"Weight" : 5,
+		"TicketBarCode" : "8 6994 99991"
+	},
+	{
+		"BaggageID" : "B-5142",
+		"BaggageType" : "Checked",
+		"Weight" : 17,
+		"TicketBarCode" : "8 4822 16782"
+	},
+	{
+		"BaggageID" : "B-5146",
+		"BaggageType" : "Carry-on",
+		"Weight" : 13,
+		"TicketBarCode" : "8 5651 31907"
+	},
+	{
+		"BaggageID" : "B-5150",
+		"BaggageType" : "Checked",
+		"Weight" : 16,
+		"TicketBarCode" : "8 8411 40204"
+	},
+	{
+		"BaggageID" : "B-5152",
+		"BaggageType" : "Checked",
+		"Weight" : 16,
+		"TicketBarCode" : "8 5467 85989"
+	},
+	{
+		"BaggageID" : "B-5178",
+		"BaggageType" : "Carry-on",
+		"Weight" : 2,
+		"TicketBarCode" : "8 0841 36948"
+	},
+	{
+		"BaggageID" : "B-5193",
+		"BaggageType" : "Checked",
+		"Weight" : 16,
+		"TicketBarCode" : "8 1475 19833"
+	},
+	{
+		"BaggageID" : "B-5214",
+		"BaggageType" : "Carry-on",
+		"Weight" : 5,
+		"TicketBarCode" : "8 0355 60515"
+	},
+	{
+		"BaggageID" : "B-5228",
+		"BaggageType" : "Checked",
+		"Weight" : 14,
+		"TicketBarCode" : "8 7836 08440"
+	},
+	{
+		"BaggageID" : "B-5239",
+		"BaggageType" : "Checked",
+		"Weight" : 18,
+		"TicketBarCode" : "8 8979 81089"
+	},
+	{
+		"BaggageID" : "B-5250",
+		"BaggageType" : "Carry-on",
+		"Weight" : 1,
+		"TicketBarCode" : "8 1239 22251"
+	},
+	{
+		"BaggageID" : "B-5286",
+		"BaggageType" : "Carry-on",
+		"Weight" : 4,
+		"TicketBarCode" : "8 2128 99225"
+	},
+	{
+		"BaggageID" : "B-5288",
+		"BaggageType" : "Checked",
+		"Weight" : 13,
+		"TicketBarCode" : "8 2649 61683"
+	},
+	{
+		"BaggageID" : "B-5313",
+		"BaggageType" : "Carry-on",
+		"Weight" : 7,
+		"TicketBarCode" : "8 6424 77637"
+	},
+	{
+		"BaggageID" : "B-5314",
+		"BaggageType" : "Carry-on",
+		"Weight" : 4,
+		"TicketBarCode" : "8 0011 83079"
+	},
+	{
+		"BaggageID" : "B-5325",
+		"BaggageType" : "Checked",
+		"Weight" : 11,
+		"TicketBarCode" : "8 5617 29665"
+	},
+	{
+		"BaggageID" : "B-5326",
+		"BaggageType" : "Carry-on",
+		"Weight" : 7,
+		"TicketBarCode" : "8 9556 29273"
+	},
+	{
+		"BaggageID" : "B-5418",
+		"BaggageType" : "Checked",
+		"Weight" : 17,
+		"TicketBarCode" : "8 1095 68659"
+	},
+	{
+		"BaggageID" : "B-5441",
+		"BaggageType" : "Carry-on",
+		"Weight" : 3,
+		"TicketBarCode" : "8 8889 56264"
+	},
+	{
+		"BaggageID" : "B-5442",
+		"BaggageType" : "Checked",
+		"Weight" : 11,
+		"TicketBarCode" : "8 4321 37122"
+	},
+	{
+		"BaggageID" : "B-5475",
+		"BaggageType" : "Checked",
+		"Weight" : 14,
+		"TicketBarCode" : "8 2480 32348"
+	},
+	{
+		"BaggageID" : "B-5476",
+		"BaggageType" : "Carry-on",
+		"Weight" : 6,
+		"TicketBarCode" : "8 8822 05805"
+	},
+	{
+		"BaggageID" : "B-5489",
+		"BaggageType" : "Carry-on",
+		"Weight" : 2,
+		"TicketBarCode" : "8 3883 71839"
+	},
+	{
+		"BaggageID" : "B-5561",
+		"BaggageType" : "Carry-on",
+		"Weight" : 3,
+		"TicketBarCode" : "8 3425 61185"
+	},
+	{
+		"BaggageID" : "B-5575",
+		"BaggageType" : "Carry-on",
+		"Weight" : 2,
+		"TicketBarCode" : "8 4227 12620"
+	},
+	{
+		"BaggageID" : "B-5607",
+		"BaggageType" : "Carry-on",
+		"Weight" : 8,
+		"TicketBarCode" : "8 7608 27699"
+	},
+	{
+		"BaggageID" : "B-5644",
+		"BaggageType" : "Carry-on",
+		"Weight" : 2,
+		"TicketBarCode" : "8 2741 61291"
+	},
+	{
+		"BaggageID" : "B-5658",
+		"BaggageType" : "Carry-on",
+		"Weight" : 3,
+		"TicketBarCode" : "8 7889 31757"
+	},
+	{
+		"BaggageID" : "B-5664",
+		"BaggageType" : "Carry-on",
+		"Weight" : 8,
+		"TicketBarCode" : "8 9448 69668"
+	},
+	{
+		"BaggageID" : "B-5674",
+		"BaggageType" : "Checked",
+		"Weight" : 19,
+		"TicketBarCode" : "8 0611 43734"
+	},
+	{
+		"BaggageID" : "B-5678",
+		"BaggageType" : "Carry-on",
+		"Weight" : 2,
+		"TicketBarCode" : "8 8822 25498"
+	},
+	{
+		"BaggageID" : "B-5687",
+		"BaggageType" : "Checked",
+		"Weight" : 14,
+		"TicketBarCode" : "8 8629 24050"
+	},
+	{
+		"BaggageID" : "B-5736",
+		"BaggageType" : "Checked",
+		"Weight" : 16,
+		"TicketBarCode" : "8 8263 89511"
+	},
+	{
+		"BaggageID" : "B-5737",
+		"BaggageType" : "Checked",
+		"Weight" : 14,
+		"TicketBarCode" : "8 6845 42940"
+	},
+	{
+		"BaggageID" : "B-5744",
+		"BaggageType" : "Carry-on",
+		"Weight" : 2,
+		"TicketBarCode" : "8 4652 24878"
+	},
+	{
+		"BaggageID" : "B-5749",
+		"BaggageType" : "Checked",
+		"Weight" : 16,
+		"TicketBarCode" : "8 5967 65545"
+	},
+	{
+		"BaggageID" : "B-5754",
+		"BaggageType" : "Carry-on",
+		"Weight" : 7,
+		"TicketBarCode" : "8 5911 25926"
+	},
+	{
+		"BaggageID" : "B-5757",
+		"BaggageType" : "Checked",
+		"Weight" : 20,
+		"TicketBarCode" : "8 3882 02953"
+	},
+	{
+		"BaggageID" : "B-5818",
+		"BaggageType" : "Carry-on",
+		"Weight" : 9,
+		"TicketBarCode" : "8 2859 85969"
+	},
+	{
+		"BaggageID" : "B-5825",
+		"BaggageType" : "Checked",
+		"Weight" : 15,
+		"TicketBarCode" : "8 4910 82692"
+	},
+	{
+		"BaggageID" : "B-5839",
+		"BaggageType" : "Checked",
+		"Weight" : 16,
+		"TicketBarCode" : "8 4830 54697"
+	},
+	{
+		"BaggageID" : "B-5870",
+		"BaggageType" : "Carry-on",
+		"Weight" : 5,
+		"TicketBarCode" : "8 7595 43479"
+	},
+	{
+		"BaggageID" : "B-5877",
+		"BaggageType" : "Checked",
+		"Weight" : 12,
+		"TicketBarCode" : "8 2723 10846"
+	},
+	{
+		"BaggageID" : "B-5878",
+		"BaggageType" : "Carry-on",
+		"Weight" : 1,
+		"TicketBarCode" : "8 2446 07793"
+	},
+	{
+		"BaggageID" : "B-5962",
+		"BaggageType" : "Checked",
+		"Weight" : 12,
+		"TicketBarCode" : "8 0760 84320"
+	},
+	{
+		"BaggageID" : "B-5980",
+		"BaggageType" : "Checked",
+		"Weight" : 15,
+		"TicketBarCode" : "8 8638 75031"
+	},
+	{
+		"BaggageID" : "B-5983",
+		"BaggageType" : "Checked",
+		"Weight" : 11,
+		"TicketBarCode" : "8 1877 42576"
+	},
+	{
+		"BaggageID" : "B-5994",
+		"BaggageType" : "Checked",
+		"Weight" : 15,
+		"TicketBarCode" : "8 8170 40839"
+	},
+	{
+		"BaggageID" : "B-6004",
+		"BaggageType" : "Carry-on",
+		"Weight" : 9,
+		"TicketBarCode" : "8 2245 59059"
+	},
+	{
+		"BaggageID" : "B-6007",
+		"BaggageType" : "Carry-on",
+		"Weight" : 6,
+		"TicketBarCode" : "8 8090 04963"
+	},
+	{
+		"BaggageID" : "B-6057",
+		"BaggageType" : "Carry-on",
+		"Weight" : 4,
+		"TicketBarCode" : "8 0297 68151"
+	},
+	{
+		"BaggageID" : "B-6095",
+		"BaggageType" : "Carry-on",
+		"Weight" : 8,
+		"TicketBarCode" : "8 2288 98577"
+	},
+	{
+		"BaggageID" : "B-6119",
+		"BaggageType" : "Carry-on",
+		"Weight" : 3,
+		"TicketBarCode" : "8 0871 51904"
+	},
+	{
+		"BaggageID" : "B-6135",
+		"BaggageType" : "Checked",
+		"Weight" : 16,
+		"TicketBarCode" : "8 2516 56273"
+	},
+	{
+		"BaggageID" : "B-6173",
+		"BaggageType" : "Carry-on",
+		"Weight" : 4,
+		"TicketBarCode" : "8 7776 64879"
+	},
+	{
+		"BaggageID" : "B-6222",
+		"BaggageType" : "Carry-on",
+		"Weight" : 5,
+		"TicketBarCode" : "8 8457 90402"
+	},
+	{
+		"BaggageID" : "B-6241",
+		"BaggageType" : "Carry-on",
+		"Weight" : 5,
+		"TicketBarCode" : "8 3488 89809"
+	},
+	{
+		"BaggageID" : "B-6245",
+		"BaggageType" : "Checked",
+		"Weight" : 15,
+		"TicketBarCode" : "8 7541 12967"
+	},
+	{
+		"BaggageID" : "B-6264",
+		"BaggageType" : "Carry-on",
+		"Weight" : 2,
+		"TicketBarCode" : "8 4321 37122"
+	},
+	{
+		"BaggageID" : "B-6300",
+		"BaggageType" : "Checked",
+		"Weight" : 18,
+		"TicketBarCode" : "8 4437 46775"
+	},
+	{
+		"BaggageID" : "B-6324",
+		"BaggageType" : "Checked",
+		"Weight" : 16,
+		"TicketBarCode" : "8 7816 43737"
+	},
+	{
+		"BaggageID" : "B-6346",
+		"BaggageType" : "Carry-on",
+		"Weight" : 5,
+		"TicketBarCode" : "8 2598 07082"
+	},
+	{
+		"BaggageID" : "B-6391",
+		"BaggageType" : "Checked",
+		"Weight" : 14,
+		"TicketBarCode" : "8 8067 99589"
+	},
+	{
+		"BaggageID" : "B-6398",
+		"BaggageType" : "Carry-on",
+		"Weight" : 4,
+		"TicketBarCode" : "8 4916 40284"
+	},
+	{
+		"BaggageID" : "B-6408",
+		"BaggageType" : "Carry-on",
+		"Weight" : 3,
+		"TicketBarCode" : "8 7384 60335"
+	},
+	{
+		"BaggageID" : "B-6424",
+		"BaggageType" : "Checked",
+		"Weight" : 12,
+		"TicketBarCode" : "8 3457 67046"
+	},
+	{
+		"BaggageID" : "B-6465",
+		"BaggageType" : "Checked",
+		"Weight" : 13,
+		"TicketBarCode" : "8 0134 50547"
+	},
+	{
+		"BaggageID" : "B-6502",
+		"BaggageType" : "Checked",
+		"Weight" : 11,
+		"TicketBarCode" : "8 9585 98334"
+	},
+	{
+		"BaggageID" : "B-6541",
+		"BaggageType" : "Checked",
+		"Weight" : 11,
+		"TicketBarCode" : "8 0254 41615"
+	},
+	{
+		"BaggageID" : "B-6553",
+		"BaggageType" : "Checked",
+		"Weight" : 15,
+		"TicketBarCode" : "8 4480 79905"
+	},
+	{
+		"BaggageID" : "B-6560",
+		"BaggageType" : "Checked",
+		"Weight" : 12,
+		"TicketBarCode" : "8 9421 44074"
+	},
+	{
+		"BaggageID" : "B-6593",
+		"BaggageType" : "Checked",
+		"Weight" : 20,
+		"TicketBarCode" : "8 4210 16886"
+	},
+	{
+		"BaggageID" : "B-6594",
+		"BaggageType" : "Checked",
+		"Weight" : 20,
+		"TicketBarCode" : "8 5820 57941"
+	},
+	{
+		"BaggageID" : "B-6604",
+		"BaggageType" : "Checked",
+		"Weight" : 19,
+		"TicketBarCode" : "8 8263 89511"
+	},
+	{
+		"BaggageID" : "B-6625",
+		"BaggageType" : "Checked",
+		"Weight" : 15,
+		"TicketBarCode" : "8 4480 79905"
+	},
+	{
+		"BaggageID" : "B-6646",
+		"BaggageType" : "Carry-on",
+		"Weight" : 1,
+		"TicketBarCode" : "8 6730 47796"
+	},
+	{
+		"BaggageID" : "B-6654",
+		"BaggageType" : "Carry-on",
+		"Weight" : 9,
+		"TicketBarCode" : "8 7836 08440"
+	},
+	{
+		"BaggageID" : "B-6655",
+		"BaggageType" : "Checked",
+		"Weight" : 15,
+		"TicketBarCode" : "8 7258 47903"
+	},
+	{
+		"BaggageID" : "B-6667",
+		"BaggageType" : "Carry-on",
+		"Weight" : 7,
+		"TicketBarCode" : "8 0055 21662"
+	},
+	{
+		"BaggageID" : "B-6680",
+		"BaggageType" : "Carry-on",
+		"Weight" : 9,
+		"TicketBarCode" : "8 5489 40496"
+	},
+	{
+		"BaggageID" : "B-6683",
+		"BaggageType" : "Carry-on",
+		"Weight" : 1,
+		"TicketBarCode" : "8 4227 12620"
+	},
+	{
+		"BaggageID" : "B-6686",
+		"BaggageType" : "Checked",
+		"Weight" : 15,
+		"TicketBarCode" : "8 6199 90046"
+	},
+	{
+		"BaggageID" : "B-6746",
+		"BaggageType" : "Carry-on",
+		"Weight" : 6,
+		"TicketBarCode" : "8 7731 03683"
+	},
+	{
+		"BaggageID" : "B-6751",
+		"BaggageType" : "Checked",
+		"Weight" : 17,
+		"TicketBarCode" : "8 1207 74452"
+	},
+	{
+		"BaggageID" : "B-6765",
+		"BaggageType" : "Carry-on",
+		"Weight" : 4,
+		"TicketBarCode" : "8 5808 25019"
+	},
+	{
+		"BaggageID" : "B-6786",
+		"BaggageType" : "Carry-on",
+		"Weight" : 8,
+		"TicketBarCode" : "8 3628 64878"
+	},
+	{
+		"BaggageID" : "B-6796",
+		"BaggageType" : "Checked",
+		"Weight" : 20,
+		"TicketBarCode" : "8 8204 29167"
+	},
+	{
+		"BaggageID" : "B-6802",
+		"BaggageType" : "Checked",
+		"Weight" : 13,
+		"TicketBarCode" : "8 8811 58844"
+	},
+	{
+		"BaggageID" : "B-6812",
+		"BaggageType" : "Carry-on",
+		"Weight" : 4,
+		"TicketBarCode" : "8 4365 58554"
+	},
+	{
+		"BaggageID" : "B-6813",
+		"BaggageType" : "Checked",
+		"Weight" : 19,
+		"TicketBarCode" : "8 1665 77425"
+	},
+	{
+		"BaggageID" : "B-6875",
+		"BaggageType" : "Checked",
+		"Weight" : 19,
+		"TicketBarCode" : "8 0932 61767"
+	},
+	{
+		"BaggageID" : "B-6909",
+		"BaggageType" : "Carry-on",
+		"Weight" : 9,
+		"TicketBarCode" : "8 5672 55341"
+	},
+	{
+		"BaggageID" : "B-6925",
+		"BaggageType" : "Carry-on",
+		"Weight" : 7,
+		"TicketBarCode" : "8 6845 42940"
+	},
+	{
+		"BaggageID" : "B-6936",
+		"BaggageType" : "Checked",
+		"Weight" : 19,
+		"TicketBarCode" : "8 6181 79003"
+	},
+	{
+		"BaggageID" : "B-6943",
+		"BaggageType" : "Checked",
+		"Weight" : 14,
+		"TicketBarCode" : "8 6637 82708"
+	},
+	{
+		"BaggageID" : "B-6948",
+		"BaggageType" : "Checked",
+		"Weight" : 14,
+		"TicketBarCode" : "8 0617 62780"
+	},
+	{
+		"BaggageID" : "B-6949",
+		"BaggageType" : "Checked",
+		"Weight" : 14,
+		"TicketBarCode" : "8 0254 41615"
+	},
+	{
+		"BaggageID" : "B-6959",
+		"BaggageType" : "Checked",
+		"Weight" : 8,
+		"TicketBarCode" : "8 3414 25638"
+	},
+	{
+		"BaggageID" : "B-6980",
+		"BaggageType" : "Carry-on",
+		"Weight" : 7,
+		"TicketBarCode" : "8 5489 40496"
+	},
+	{
+		"BaggageID" : "B-6985",
+		"BaggageType" : "Carry-on",
+		"Weight" : 7,
+		"TicketBarCode" : "8 5312 75345"
+	},
+	{
+		"BaggageID" : "B-7038",
+		"BaggageType" : "Carry-on",
+		"Weight" : 3,
+		"TicketBarCode" : "8 1086 26124"
+	},
+	{
+		"BaggageID" : "B-7042",
+		"BaggageType" : "Checked",
+		"Weight" : 15,
+		"TicketBarCode" : "8 1062 01881"
+	},
+	{
+		"BaggageID" : "B-7047",
+		"BaggageType" : "Checked",
+		"Weight" : 11,
+		"TicketBarCode" : "8 2440 46496"
+	},
+	{
+		"BaggageID" : "B-7072",
+		"BaggageType" : "Checked",
+		"Weight" : 13,
+		"TicketBarCode" : "8 1411 75969"
+	},
+	{
+		"BaggageID" : "B-7124",
+		"BaggageType" : "Carry-on",
+		"Weight" : 5,
+		"TicketBarCode" : "8 2311 94373"
+	},
+	{
+		"BaggageID" : "B-7144",
+		"BaggageType" : "Carry-on",
+		"Weight" : 6,
+		"TicketBarCode" : "8 7258 47903"
+	},
+	{
+		"BaggageID" : "B-7150",
+		"BaggageType" : "Carry-on",
+		"Weight" : 1,
+		"TicketBarCode" : "8 6953 18545"
+	},
+	{
+		"BaggageID" : "B-7162",
+		"BaggageType" : "Carry-on",
+		"Weight" : 3,
+		"TicketBarCode" : "8 3882 02953"
+	},
+	{
+		"BaggageID" : "B-7180",
+		"BaggageType" : "Carry-on",
+		"Weight" : 5,
+		"TicketBarCode" : "8 7386 96716"
+	},
+	{
+		"BaggageID" : "B-7203",
+		"BaggageType" : "Checked",
+		"Weight" : 13,
+		"TicketBarCode" : "8 9048 44801"
+	},
+	{
+		"BaggageID" : "B-7226",
+		"BaggageType" : "Checked",
+		"Weight" : 11,
+		"TicketBarCode" : "8 4890 90365"
+	},
+	{
+		"BaggageID" : "B-7243",
+		"BaggageType" : "Checked",
+		"Weight" : 17,
+		"TicketBarCode" : "8 2288 98577"
+	},
+	{
+		"BaggageID" : "B-7268",
+		"BaggageType" : "Carry-on",
+		"Weight" : 2,
+		"TicketBarCode" : "8 9772 62373"
+	},
+	{
+		"BaggageID" : "B-7270",
+		"BaggageType" : "Carry-on",
+		"Weight" : 3,
+		"TicketBarCode" : "8 5778 60823"
+	},
+	{
+		"BaggageID" : "B-7286",
+		"BaggageType" : "Carry-on",
+		"Weight" : 1,
+		"TicketBarCode" : "8 8508 31826"
+	},
+	{
+		"BaggageID" : "B-7296",
+		"BaggageType" : "Carry-on",
+		"Weight" : 4,
+		"TicketBarCode" : "8 5698 01090"
+	},
+	{
+		"BaggageID" : "B-7346",
+		"BaggageType" : "Checked",
+		"Weight" : 15,
+		"TicketBarCode" : "8 0455 40099"
+	},
+	{
+		"BaggageID" : "B-7365",
+		"BaggageType" : "Carry-on",
+		"Weight" : 2,
+		"TicketBarCode" : "8 1283 96275"
+	},
+	{
+		"BaggageID" : "B-7427",
+		"BaggageType" : "Carry-on",
+		"Weight" : 5,
+		"TicketBarCode" : "8 8457 90402"
+	},
+	{
+		"BaggageID" : "B-7496",
+		"BaggageType" : "Carry-on",
+		"Weight" : 4,
+		"TicketBarCode" : "8 6424 77637"
+	},
+	{
+		"BaggageID" : "B-7497",
+		"BaggageType" : "Carry-on",
+		"Weight" : 8,
+		"TicketBarCode" : "8 7595 43479"
+	},
+	{
+		"BaggageID" : "B-7593",
+		"BaggageType" : "Carry-on",
+		"Weight" : 1,
+		"TicketBarCode" : "8 7889 31757"
+	},
+	{
+		"BaggageID" : "B-7602",
+		"BaggageType" : "Checked",
+		"Weight" : 18,
+		"TicketBarCode" : "8 7967 13452"
+	},
+	{
+		"BaggageID" : "B-7603",
+		"BaggageType" : "Checked",
+		"Weight" : 16,
+		"TicketBarCode" : "8 8130 08713"
+	},
+	{
+		"BaggageID" : "B-7608",
+		"BaggageType" : "Carry-on",
+		"Weight" : 1,
+		"TicketBarCode" : "8 3936 99581"
+	},
+	{
+		"BaggageID" : "B-7642",
+		"BaggageType" : "Carry-on",
+		"Weight" : 7,
+		"TicketBarCode" : "8 7394 00670"
+	},
+	{
+		"BaggageID" : "B-7689",
+		"BaggageType" : "Carry-on",
+		"Weight" : 4,
+		"TicketBarCode" : "8 8368 38099"
+	},
+	{
+		"BaggageID" : "B-7720",
+		"BaggageType" : "Checked",
+		"Weight" : 12,
+		"TicketBarCode" : "8 3808 88767"
+	},
+	{
+		"BaggageID" : "B-7738",
+		"BaggageType" : "Carry-on",
+		"Weight" : 8,
+		"TicketBarCode" : "8 7314 97859"
+	},
+	{
+		"BaggageID" : "B-7739",
+		"BaggageType" : "Checked",
+		"Weight" : 18,
+		"TicketBarCode" : "8 0238 54843"
+	},
+	{
+		"BaggageID" : "B-7750",
+		"BaggageType" : "Carry-on",
+		"Weight" : 1,
+		"TicketBarCode" : "8 0367 52847"
+	},
+	{
+		"BaggageID" : "B-7762",
+		"BaggageType" : "Checked",
+		"Weight" : 13,
+		"TicketBarCode" : "8 8979 81089"
+	},
+	{
+		"BaggageID" : "B-7854",
+		"BaggageType" : "Carry-on",
+		"Weight" : 6,
+		"TicketBarCode" : "8 5802 86618"
+	},
+	{
+		"BaggageID" : "B-7882",
+		"BaggageType" : "Carry-on",
+		"Weight" : 6,
+		"TicketBarCode" : "8 7583 60048"
+	},
+	{
+		"BaggageID" : "B-7891",
+		"BaggageType" : "Checked",
+		"Weight" : 15,
+		"TicketBarCode" : "8 6199 90046"
+	},
+	{
+		"BaggageID" : "B-7905",
+		"BaggageType" : "Carry-on",
+		"Weight" : 1,
+		"TicketBarCode" : "8 8850 68547"
+	},
+	{
+		"BaggageID" : "B-7906",
+		"BaggageType" : "Carry-on",
+		"Weight" : 3,
+		"TicketBarCode" : "8 0892 75617"
+	},
+	{
+		"BaggageID" : "B-7917",
+		"BaggageType" : "Checked",
+		"Weight" : 11,
+		"TicketBarCode" : "8 0518 10375"
+	},
+	{
+		"BaggageID" : "B-8032",
+		"BaggageType" : "Checked",
+		"Weight" : 17,
+		"TicketBarCode" : "8 6676 15205"
+	},
+	{
+		"BaggageID" : "B-8037",
+		"BaggageType" : "Carry-on",
+		"Weight" : 5,
+		"TicketBarCode" : "8 2245 59059"
+	},
+	{
+		"BaggageID" : "B-8056",
+		"BaggageType" : "Checked",
+		"Weight" : 13,
+		"TicketBarCode" : "8 7541 12967"
+	},
+	{
+		"BaggageID" : "B-8085",
+		"BaggageType" : "Checked",
+		"Weight" : 17,
+		"TicketBarCode" : "8 3865 96069"
+	},
+	{
+		"BaggageID" : "B-8145",
+		"BaggageType" : "Checked",
+		"Weight" : 19,
+		"TicketBarCode" : "8 0011 83079"
+	},
+	{
+		"BaggageID" : "B-8163",
+		"BaggageType" : "Checked",
+		"Weight" : 13,
+		"TicketBarCode" : "8 6603 92097"
+	},
+	{
+		"BaggageID" : "B-8175",
+		"BaggageType" : "Checked",
+		"Weight" : 19,
+		"TicketBarCode" : "8 4017 26359"
+	},
+	{
+		"BaggageID" : "B-8177",
+		"BaggageType" : "Carry-on",
+		"Weight" : 3,
+		"TicketBarCode" : "8 7007 82590"
+	},
+	{
+		"BaggageID" : "B-8194",
+		"BaggageType" : "Carry-on",
+		"Weight" : 2,
+		"TicketBarCode" : "8 3404 28398"
+	},
+	{
+		"BaggageID" : "B-8201",
+		"BaggageType" : "Carry-on",
+		"Weight" : 6,
+		"TicketBarCode" : "8 0932 61767"
+	},
+	{
+		"BaggageID" : "B-8276",
+		"BaggageType" : "Carry-on",
+		"Weight" : 6,
+		"TicketBarCode" : "8 7970 84857"
+	},
+	{
+		"BaggageID" : "B-8282",
+		"BaggageType" : "Checked",
+		"Weight" : 20,
+		"TicketBarCode" : "8 2598 07082"
+	},
+	{
+		"BaggageID" : "B-8287",
+		"BaggageType" : "Carry-on",
+		"Weight" : 4,
+		"TicketBarCode" : "8 3161 00609"
+	},
+	{
+		"BaggageID" : "B-8292",
+		"BaggageType" : "Carry-on",
+		"Weight" : 4,
+		"TicketBarCode" : "8 2238 13303"
+	},
+	{
+		"BaggageID" : "B-8332",
+		"BaggageType" : "Carry-on",
+		"Weight" : 9,
+		"TicketBarCode" : "8 2924 99733"
+	},
+	{
+		"BaggageID" : "B-8342",
+		"BaggageType" : "Checked",
+		"Weight" : 15,
+		"TicketBarCode" : "8 0904 68270"
+	},
+	{
+		"BaggageID" : "B-8367",
+		"BaggageType" : "Checked",
+		"Weight" : 14,
+		"TicketBarCode" : "8 5075 48687"
+	},
+	{
+		"BaggageID" : "B-8395",
+		"BaggageType" : "Carry-on",
+		"Weight" : 2,
+		"TicketBarCode" : "8 9303 77330"
+	},
+	{
+		"BaggageID" : "B-8415",
+		"BaggageType" : "Carry-on",
+		"Weight" : 9,
+		"TicketBarCode" : "8 5241 46075"
+	},
+	{
+		"BaggageID" : "B-8431",
+		"BaggageType" : "Carry-on",
+		"Weight" : 9,
+		"TicketBarCode" : "8 1770 41870"
+	},
+	{
+		"BaggageID" : "B-8464",
+		"BaggageType" : "Checked",
+		"Weight" : 17,
+		"TicketBarCode" : "8 5499 01731"
+	},
+	{
+		"BaggageID" : "B-8488",
+		"BaggageType" : "Checked",
+		"Weight" : 12,
+		"TicketBarCode" : "8 1082 56378"
+	},
+	{
+		"BaggageID" : "B-8502",
+		"BaggageType" : "Carry-on",
+		"Weight" : 8,
+		"TicketBarCode" : "8 1323 22804"
+	},
+	{
+		"BaggageID" : "B-8556",
+		"BaggageType" : "Carry-on",
+		"Weight" : 6,
+		"TicketBarCode" : "8 9048 44801"
+	},
+	{
+		"BaggageID" : "B-8598",
+		"BaggageType" : "Carry-on",
+		"Weight" : 3,
+		"TicketBarCode" : "8 7731 03683"
+	},
+	{
+		"BaggageID" : "B-8619",
+		"BaggageType" : "Carry-on",
+		"Weight" : 4,
+		"TicketBarCode" : "8 3233 28085"
+	},
+	{
+		"BaggageID" : "B-8636",
+		"BaggageType" : "Checked",
+		"Weight" : 16,
+		"TicketBarCode" : "8 7714 91572"
+	},
+	{
+		"BaggageID" : "B-8655",
+		"BaggageType" : "Carry-on",
+		"Weight" : 9,
+		"TicketBarCode" : "8 1473 34926"
+	},
+	{
+		"BaggageID" : "B-8671",
+		"BaggageType" : "Checked",
+		"Weight" : 14,
+		"TicketBarCode" : "8 7872 31608"
+	},
+	{
+		"BaggageID" : "B-8712",
+		"BaggageType" : "Checked",
+		"Weight" : 11,
+		"TicketBarCode" : "8 2859 85969"
+	},
+	{
+		"BaggageID" : "B-8803",
+		"BaggageType" : "Checked",
+		"Weight" : 18,
+		"TicketBarCode" : "8 0398 21990"
+	},
+	{
+		"BaggageID" : "B-8807",
+		"BaggageType" : "Checked",
+		"Weight" : 11,
+		"TicketBarCode" : "8 3741 84928"
+	},
+	{
+		"BaggageID" : "B-8826",
+		"BaggageType" : "Checked",
+		"Weight" : 11,
+		"TicketBarCode" : "8 1333 72161"
+	},
+	{
+		"BaggageID" : "B-8833",
+		"BaggageType" : "Checked",
+		"Weight" : 16,
+		"TicketBarCode" : "8 7510 33909"
+	},
+	{
+		"BaggageID" : "B-8836",
+		"BaggageType" : "Checked",
+		"Weight" : 11,
+		"TicketBarCode" : "8 6626 65547"
+	},
+	{
+		"BaggageID" : "B-8922",
+		"BaggageType" : "Carry-on",
+		"Weight" : 6,
+		"TicketBarCode" : "8 2550 66764"
+	},
+	{
+		"BaggageID" : "B-8961",
+		"BaggageType" : "Checked",
+		"Weight" : 18,
+		"TicketBarCode" : "8 7985 51689"
+	},
+	{
+		"BaggageID" : "B-8987",
+		"BaggageType" : "Checked",
+		"Weight" : 10,
+		"TicketBarCode" : "8 2892 96908"
+	},
+	{
+		"BaggageID" : "B-9020",
+		"BaggageType" : "Checked",
+		"Weight" : 10,
+		"TicketBarCode" : "8 2446 07793"
+	},
+	{
+		"BaggageID" : "B-9060",
+		"BaggageType" : "Checked",
+		"Weight" : 15,
+		"TicketBarCode" : "8 5875 91014"
+	},
+	{
+		"BaggageID" : "B-9092",
+		"BaggageType" : "Carry-on",
+		"Weight" : 8,
+		"TicketBarCode" : "8 0871 51904"
+	},
+	{
+		"BaggageID" : "B-9093",
+		"BaggageType" : "Carry-on",
+		"Weight" : 7,
+		"TicketBarCode" : "8 6615 58406"
+	},
+	{
+		"BaggageID" : "B-9099",
+		"BaggageType" : "Checked",
+		"Weight" : 13,
+		"TicketBarCode" : "8 5802 86618"
+	},
+	{
+		"BaggageID" : "B-9136",
+		"BaggageType" : "Checked",
+		"Weight" : 13,
+		"TicketBarCode" : "8 9696 95550"
+	},
+	{
+		"BaggageID" : "B-9173",
+		"BaggageType" : "Carry-on",
+		"Weight" : 2,
+		"TicketBarCode" : "8 3425 61185"
+	},
+	{
+		"BaggageID" : "B-9195",
+		"BaggageType" : "Checked",
+		"Weight" : 13,
+		"TicketBarCode" : "8 8067 99589"
+	},
+	{
+		"BaggageID" : "B-9205",
+		"BaggageType" : "Carry-on",
+		"Weight" : 4,
+		"TicketBarCode" : "8 4017 26359"
+	},
+	{
+		"BaggageID" : "B-9229",
+		"BaggageType" : "Carry-on",
+		"Weight" : 1,
+		"TicketBarCode" : "8 0446 88505"
+	},
+	{
+		"BaggageID" : "B-9258",
+		"BaggageType" : "Checked",
+		"Weight" : 13,
+		"TicketBarCode" : "8 0868 84875"
+	},
+	{
+		"BaggageID" : "B-9265",
+		"BaggageType" : "Carry-on",
+		"Weight" : 7,
+		"TicketBarCode" : "8 3794 46002"
+	},
+	{
+		"BaggageID" : "B-9306",
+		"BaggageType" : "Checked",
+		"Weight" : 12,
+		"TicketBarCode" : "8 3179 25695"
+	},
+	{
+		"BaggageID" : "B-9312",
+		"BaggageType" : "Checked",
+		"Weight" : 17,
+		"TicketBarCode" : "8 1143 91771"
+	},
+	{
+		"BaggageID" : "B-9378",
+		"BaggageType" : "Checked",
+		"Weight" : 18,
+		"TicketBarCode" : "8 7931 50872"
+	},
+	{
+		"BaggageID" : "B-9423",
+		"BaggageType" : "Carry-on",
+		"Weight" : 6,
+		"TicketBarCode" : "8 1333 72161"
+	},
+	{
+		"BaggageID" : "B-9446",
+		"BaggageType" : "Carry-on",
+		"Weight" : 8,
+		"TicketBarCode" : "8 7510 33909"
+	},
+	{
+		"BaggageID" : "B-9452",
+		"BaggageType" : "Carry-on",
+		"Weight" : 5,
+		"TicketBarCode" : "8 3883 71839"
+	},
+	{
+		"BaggageID" : "B-9468",
+		"BaggageType" : "Carry-on",
+		"Weight" : 2,
+		"TicketBarCode" : "8 6376 27905"
+	},
+	{
+		"BaggageID" : "B-9470",
+		"BaggageType" : "Carry-on",
+		"Weight" : 6,
+		"TicketBarCode" : "8 4814 69206"
+	},
+	{
+		"BaggageID" : "B-9512",
+		"BaggageType" : "Checked",
+		"Weight" : 14,
+		"TicketBarCode" : "8 8272 28053"
+	},
+	{
+		"BaggageID" : "B-9581",
+		"BaggageType" : "Carry-on",
+		"Weight" : 9,
+		"TicketBarCode" : "8 1432 06236"
+	},
+	{
+		"BaggageID" : "B-9643",
+		"BaggageType" : "Carry-on",
+		"Weight" : 9,
+		"TicketBarCode" : "8 2233 80315"
+	},
+	{
+		"BaggageID" : "B-9652",
+		"BaggageType" : "Carry-on",
+		"Weight" : 8,
+		"TicketBarCode" : "8 7185 06067"
+	},
+	{
+		"BaggageID" : "B-9665",
+		"BaggageType" : "Checked",
+		"Weight" : 20,
+		"TicketBarCode" : "8 5457 12106"
+	},
+	{
+		"BaggageID" : "B-9709",
+		"BaggageType" : "Checked",
+		"Weight" : 17,
+		"TicketBarCode" : "8 7007 82590"
+	},
+	{
+		"BaggageID" : "B-9725",
+		"BaggageType" : "Carry-on",
+		"Weight" : 4,
+		"TicketBarCode" : "8 2114 68685"
+	},
+	{
+		"BaggageID" : "B-9726",
+		"BaggageType" : "Carry-on",
+		"Weight" : 7,
+		"TicketBarCode" : "8 8356 62722"
+	},
+	{
+		"BaggageID" : "B-9735",
+		"BaggageType" : "Checked",
+		"Weight" : 14,
+		"TicketBarCode" : "8 1113 27011"
+	},
+	{
+		"BaggageID" : "B-9752",
+		"BaggageType" : "Checked",
+		"Weight" : 19,
+		"TicketBarCode" : "8 8508 31826"
+	},
+	{
+		"BaggageID" : "B-9809",
+		"BaggageType" : "Carry-on",
+		"Weight" : 3,
+		"TicketBarCode" : "8 3720 55941"
+	},
+	{
+		"BaggageID" : "B-9863",
+		"BaggageType" : "Carry-on",
+		"Weight" : 7,
+		"TicketBarCode" : "8 2698 37978"
+	},
+	{
+		"BaggageID" : "B-9892",
+		"BaggageType" : "Checked",
+		"Weight" : 12,
+		"TicketBarCode" : "8 6048 09544"
+	},
+	{
+		"BaggageID" : "B-9912",
+		"BaggageType" : "Checked",
+		"Weight" : 12,
+		"TicketBarCode" : "8 8090 04963"
+	},
+	{
+		"BaggageID" : "B-9974",
+		"BaggageType" : "Checked",
+		"Weight" : 13,
+		"TicketBarCode" : "8 7872 31608"
+	},
+	{
+		"BaggageID" : "B-9982",
+		"BaggageType" : "Checked",
+		"Weight" : 13,
+		"TicketBarCode" : "8 0904 68270"
+	},
+	{
+		"BaggageID" : "B-9985",
+		"BaggageType" : "Carry-on",
+		"Weight" : 8,
+		"TicketBarCode" : "8 7662 20197"
+	},
+	{
+		"BaggageID" : "B-9993",
+		"BaggageType" : "Checked",
+		"Weight" : 14,
+		"TicketBarCode" : "8 3893 87411"
+	}
+]

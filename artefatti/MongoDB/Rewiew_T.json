@@ -1,0 +1,702 @@
+[
+	{
+		"FlightID" : "AA5090",
+		"TaxCode" : "HHMMJV19J61Z816Y",
+		"Cleanliness" : 4,
+		"OnboardExperience" : 2,
+		"Service" : 2
+	},
+	{
+		"FlightID" : "AA5090",
+		"TaxCode" : "LBAQLK70K96T013V",
+		"Cleanliness" : 2,
+		"OnboardExperience" : 4,
+		"Service" : 3
+	},
+	{
+		"FlightID" : "AE5666",
+		"TaxCode" : "VPZRNX13B47R341L",
+		"Cleanliness" : 2,
+		"OnboardExperience" : 1,
+		"Service" : 5
+	},
+	{
+		"FlightID" : "AE8500",
+		"TaxCode" : "IEVVTP05Z65V883I",
+		"Cleanliness" : 3,
+		"OnboardExperience" : 3,
+		"Service" : 4
+	},
+	{
+		"FlightID" : "AP2790",
+		"TaxCode" : "TYSFYN71Z59R274Q",
+		"Cleanliness" : 4,
+		"OnboardExperience" : 3,
+		"Service" : 5
+	},
+	{
+		"FlightID" : "BD6790",
+		"TaxCode" : "AJSFEL15Z02K174P",
+		"Cleanliness" : 4,
+		"OnboardExperience" : 5,
+		"Service" : 5
+	},
+	{
+		"FlightID" : "BF6987",
+		"TaxCode" : "WRUBUP75J53B199V",
+		"Cleanliness" : 3,
+		"OnboardExperience" : 5,
+		"Service" : 1
+	},
+	{
+		"FlightID" : "BG9319",
+		"TaxCode" : "DLCUKO08M67W856V",
+		"Cleanliness" : 3,
+		"OnboardExperience" : 1,
+		"Service" : 2
+	},
+	{
+		"FlightID" : "BR8019",
+		"TaxCode" : "JQCLRS04W63A223E",
+		"Cleanliness" : 1,
+		"OnboardExperience" : 5,
+		"Service" : 1
+	},
+	{
+		"FlightID" : "BR8019",
+		"TaxCode" : "ONJMDE43C33N750T",
+		"Cleanliness" : 5,
+		"OnboardExperience" : 3,
+		"Service" : 4
+	},
+	{
+		"FlightID" : "BS9678",
+		"TaxCode" : "LBAQLK70K96T013V",
+		"Cleanliness" : 3,
+		"OnboardExperience" : 3,
+		"Service" : 1
+	},
+	{
+		"FlightID" : "CB8369",
+		"TaxCode" : "KAPXPD80W74B242G",
+		"Cleanliness" : 3,
+		"OnboardExperience" : 5,
+		"Service" : 5
+	},
+	{
+		"FlightID" : "CD6143",
+		"TaxCode" : "VWAPNN79J46I004F",
+		"Cleanliness" : 1,
+		"OnboardExperience" : 2,
+		"Service" : 5
+	},
+	{
+		"FlightID" : "CH3533",
+		"TaxCode" : "JRQIFN21S75A024Y",
+		"Cleanliness" : 5,
+		"OnboardExperience" : 1,
+		"Service" : 2
+	},
+	{
+		"FlightID" : "CH3533",
+		"TaxCode" : "NARAPF59C71N488P",
+		"Cleanliness" : 5,
+		"OnboardExperience" : 5,
+		"Service" : 1
+	},
+	{
+		"FlightID" : "CK9276",
+		"TaxCode" : "XDKFKL39O00T458I",
+		"Cleanliness" : 1,
+		"OnboardExperience" : 2,
+		"Service" : 1
+	},
+	{
+		"FlightID" : "CP2465",
+		"TaxCode" : "KKVDXA75H40R479K",
+		"Cleanliness" : 4,
+		"OnboardExperience" : 3,
+		"Service" : 5
+	},
+	{
+		"FlightID" : "CX5219",
+		"TaxCode" : "ERRJLW55V94I869M",
+		"Cleanliness" : 1,
+		"OnboardExperience" : 1,
+		"Service" : 3
+	},
+	{
+		"FlightID" : "DJ4737",
+		"TaxCode" : "ZXBIEL99S96Q419X",
+		"Cleanliness" : 1,
+		"OnboardExperience" : 5,
+		"Service" : 4
+	},
+	{
+		"FlightID" : "DK1886",
+		"TaxCode" : "VULUSZ45P17D632R",
+		"Cleanliness" : 1,
+		"OnboardExperience" : 2,
+		"Service" : 2
+	},
+	{
+		"FlightID" : "EL1138",
+		"TaxCode" : "LMDTSX08V51E891Q",
+		"Cleanliness" : 2,
+		"OnboardExperience" : 4,
+		"Service" : 4
+	},
+	{
+		"FlightID" : "ET8895",
+		"TaxCode" : "XQMLPN77H51Z792R",
+		"Cleanliness" : 2,
+		"OnboardExperience" : 2,
+		"Service" : 5
+	},
+	{
+		"FlightID" : "EW6525",
+		"TaxCode" : "IMUPFS66A98P258K",
+		"Cleanliness" : 4,
+		"OnboardExperience" : 4,
+		"Service" : 5
+	},
+	{
+		"FlightID" : "FQ4875",
+		"TaxCode" : "EJPXDA45Z46U884G",
+		"Cleanliness" : 1,
+		"OnboardExperience" : 1,
+		"Service" : 5
+	},
+	{
+		"FlightID" : "FS0698",
+		"TaxCode" : "PMVETH78Y55V342H",
+		"Cleanliness" : 1,
+		"OnboardExperience" : 3,
+		"Service" : 2
+	},
+	{
+		"FlightID" : "FS0698",
+		"TaxCode" : "WQJIHC11P56I874X",
+		"Cleanliness" : 1,
+		"OnboardExperience" : 3,
+		"Service" : 5
+	},
+	{
+		"FlightID" : "GC2328",
+		"TaxCode" : "VCPNZZ42F25G556C",
+		"Cleanliness" : 4,
+		"OnboardExperience" : 3,
+		"Service" : 4
+	},
+	{
+		"FlightID" : "GC2328",
+		"TaxCode" : "VXQAIQ86I14E953W",
+		"Cleanliness" : 1,
+		"OnboardExperience" : 5,
+		"Service" : 1
+	},
+	{
+		"FlightID" : "GE6412",
+		"TaxCode" : "AQVFYC06V01U404V",
+		"Cleanliness" : 3,
+		"OnboardExperience" : 4,
+		"Service" : 1
+	},
+	{
+		"FlightID" : "GE6412",
+		"TaxCode" : "DISDSO52R77M085A",
+		"Cleanliness" : 5,
+		"OnboardExperience" : 2,
+		"Service" : 4
+	},
+	{
+		"FlightID" : "GY4015",
+		"TaxCode" : "BACSUR91F01Y299Z",
+		"Cleanliness" : 3,
+		"OnboardExperience" : 3,
+		"Service" : 5
+	},
+	{
+		"FlightID" : "GY4015",
+		"TaxCode" : "BTGJLS86X77K090Y",
+		"Cleanliness" : 2,
+		"OnboardExperience" : 1,
+		"Service" : 2
+	},
+	{
+		"FlightID" : "HC3111",
+		"TaxCode" : "FJDKLR92Q31X958Q",
+		"Cleanliness" : 2,
+		"OnboardExperience" : 4,
+		"Service" : 3
+	},
+	{
+		"FlightID" : "HD2051",
+		"TaxCode" : "KFILWA10X55Z242N",
+		"Cleanliness" : 5,
+		"OnboardExperience" : 5,
+		"Service" : 1
+	},
+	{
+		"FlightID" : "HG5921",
+		"TaxCode" : "VVINOY91Y80M768Y",
+		"Cleanliness" : 3,
+		"OnboardExperience" : 3,
+		"Service" : 3
+	},
+	{
+		"FlightID" : "HL5529",
+		"TaxCode" : "LBAQLK70K96T013V",
+		"Cleanliness" : 1,
+		"OnboardExperience" : 5,
+		"Service" : 2
+	},
+	{
+		"FlightID" : "HQ1866",
+		"TaxCode" : "BSPWAA20F06A438G",
+		"Cleanliness" : 1,
+		"OnboardExperience" : 3,
+		"Service" : 3
+	},
+	{
+		"FlightID" : "HQ1866",
+		"TaxCode" : "ROJJAP28Y68A102H",
+		"Cleanliness" : 1,
+		"OnboardExperience" : 5,
+		"Service" : 1
+	},
+	{
+		"FlightID" : "HR8071",
+		"TaxCode" : "CIYBSY19T16F221H",
+		"Cleanliness" : 2,
+		"OnboardExperience" : 1,
+		"Service" : 3
+	},
+	{
+		"FlightID" : "IH8474",
+		"TaxCode" : "SPXBEL55H07Q378S",
+		"Cleanliness" : 5,
+		"OnboardExperience" : 4,
+		"Service" : 2
+	},
+	{
+		"FlightID" : "IH8474",
+		"TaxCode" : "WQPUSD93E18D622F",
+		"Cleanliness" : 2,
+		"OnboardExperience" : 5,
+		"Service" : 2
+	},
+	{
+		"FlightID" : "IO4551",
+		"TaxCode" : "THFGCK79C65B875C",
+		"Cleanliness" : 4,
+		"OnboardExperience" : 4,
+		"Service" : 3
+	},
+	{
+		"FlightID" : "IT2699",
+		"TaxCode" : "LBDCUV36R43I160J",
+		"Cleanliness" : 5,
+		"OnboardExperience" : 4,
+		"Service" : 2
+	},
+	{
+		"FlightID" : "JF2600",
+		"TaxCode" : "DCEBIK28A26L519A",
+		"Cleanliness" : 3,
+		"OnboardExperience" : 1,
+		"Service" : 2
+	},
+	{
+		"FlightID" : "JF2600",
+		"TaxCode" : "KLRHEK24R06F268Q",
+		"Cleanliness" : 2,
+		"OnboardExperience" : 4,
+		"Service" : 1
+	},
+	{
+		"FlightID" : "JT7561",
+		"TaxCode" : "ERRJLW55V94I869M",
+		"Cleanliness" : 1,
+		"OnboardExperience" : 1,
+		"Service" : 3
+	},
+	{
+		"FlightID" : "KM2189",
+		"TaxCode" : "GXLPCW76H06E076U",
+		"Cleanliness" : 2,
+		"OnboardExperience" : 2,
+		"Service" : 5
+	},
+	{
+		"FlightID" : "KT0230",
+		"TaxCode" : "FGXCYN64Q77W320F",
+		"Cleanliness" : 3,
+		"OnboardExperience" : 4,
+		"Service" : 1
+	},
+	{
+		"FlightID" : "LJ1970",
+		"TaxCode" : "BKQVDA88B10M660I",
+		"Cleanliness" : 3,
+		"OnboardExperience" : 5,
+		"Service" : 1
+	},
+	{
+		"FlightID" : "LQ4683",
+		"TaxCode" : "WQJIHC11P56I874X",
+		"Cleanliness" : 3,
+		"OnboardExperience" : 4,
+		"Service" : 4
+	},
+	{
+		"FlightID" : "LT7760",
+		"TaxCode" : "MDNNUT81T94I673S",
+		"Cleanliness" : 2,
+		"OnboardExperience" : 5,
+		"Service" : 3
+	},
+	{
+		"FlightID" : "MK6146",
+		"TaxCode" : "BSLPGI35I83X773R",
+		"Cleanliness" : 5,
+		"OnboardExperience" : 1,
+		"Service" : 3
+	},
+	{
+		"FlightID" : "MK6146",
+		"TaxCode" : "KETNSK13W83T764L",
+		"Cleanliness" : 3,
+		"OnboardExperience" : 1,
+		"Service" : 4
+	},
+	{
+		"FlightID" : "MM2277",
+		"TaxCode" : "WQJIHC11P56I874X",
+		"Cleanliness" : 2,
+		"OnboardExperience" : 3,
+		"Service" : 1
+	},
+	{
+		"FlightID" : "NO0858",
+		"TaxCode" : "JEJNDV00F12H625L",
+		"Cleanliness" : 5,
+		"OnboardExperience" : 3,
+		"Service" : 4
+	},
+	{
+		"FlightID" : "NO0858",
+		"TaxCode" : "KKUOQI52B48S965H",
+		"Cleanliness" : 2,
+		"OnboardExperience" : 2,
+		"Service" : 2
+	},
+	{
+		"FlightID" : "NX3147",
+		"TaxCode" : "GMVCJR12A26B858L",
+		"Cleanliness" : 1,
+		"OnboardExperience" : 5,
+		"Service" : 2
+	},
+	{
+		"FlightID" : "OU9763",
+		"TaxCode" : "WCHPHI51D69R799T",
+		"Cleanliness" : 2,
+		"OnboardExperience" : 4,
+		"Service" : 4
+	},
+	{
+		"FlightID" : "PG3109",
+		"TaxCode" : "IXPMPI84Q41Q153C",
+		"Cleanliness" : 1,
+		"OnboardExperience" : 3,
+		"Service" : 5
+	},
+	{
+		"FlightID" : "PN2901",
+		"TaxCode" : "ROSELY83V77H297G",
+		"Cleanliness" : 2,
+		"OnboardExperience" : 5,
+		"Service" : 1
+	},
+	{
+		"FlightID" : "QB1531",
+		"TaxCode" : "PFNTBK36I22Y306Q",
+		"Cleanliness" : 3,
+		"OnboardExperience" : 1,
+		"Service" : 5
+	},
+	{
+		"FlightID" : "QB1531",
+		"TaxCode" : "UQZHPU47M64U954W",
+		"Cleanliness" : 5,
+		"OnboardExperience" : 4,
+		"Service" : 3
+	},
+	{
+		"FlightID" : "QE1222",
+		"TaxCode" : "FRMCFD19H15Y518O",
+		"Cleanliness" : 3,
+		"OnboardExperience" : 5,
+		"Service" : 1
+	},
+	{
+		"FlightID" : "QL9378",
+		"TaxCode" : "IMUPFS66A98P258K",
+		"Cleanliness" : 1,
+		"OnboardExperience" : 2,
+		"Service" : 2
+	},
+	{
+		"FlightID" : "QP8305",
+		"TaxCode" : "FJDKLR92Q31X958Q",
+		"Cleanliness" : 4,
+		"OnboardExperience" : 3,
+		"Service" : 1
+	},
+	{
+		"FlightID" : "RI2037",
+		"TaxCode" : "ECWOAX24A64S442I",
+		"Cleanliness" : 1,
+		"OnboardExperience" : 2,
+		"Service" : 3
+	},
+	{
+		"FlightID" : "RT3457",
+		"TaxCode" : "UQZHPU47M64U954W",
+		"Cleanliness" : 4,
+		"OnboardExperience" : 1,
+		"Service" : 5
+	},
+	{
+		"FlightID" : "RX4279",
+		"TaxCode" : "CZMRQE93X95G620M",
+		"Cleanliness" : 4,
+		"OnboardExperience" : 4,
+		"Service" : 2
+	},
+	{
+		"FlightID" : "RX4279",
+		"TaxCode" : "ZXBIEL99S96Q419X",
+		"Cleanliness" : 4,
+		"OnboardExperience" : 5,
+		"Service" : 2
+	},
+	{
+		"FlightID" : "SG6000",
+		"TaxCode" : "BHOESF18B04Z837A",
+		"Cleanliness" : 5,
+		"OnboardExperience" : 1,
+		"Service" : 2
+	},
+	{
+		"FlightID" : "SG6000",
+		"TaxCode" : "BSLPGI35I83X773R",
+		"Cleanliness" : 1,
+		"OnboardExperience" : 3,
+		"Service" : 3
+	},
+	{
+		"FlightID" : "SG6000",
+		"TaxCode" : "OFHCEZ10K56O001E",
+		"Cleanliness" : 2,
+		"OnboardExperience" : 1,
+		"Service" : 2
+	},
+	{
+		"FlightID" : "SO5996",
+		"TaxCode" : "JRQIFN21S75A024Y",
+		"Cleanliness" : 2,
+		"OnboardExperience" : 1,
+		"Service" : 4
+	},
+	{
+		"FlightID" : "TE5789",
+		"TaxCode" : "MXOFDM99H07L776B",
+		"Cleanliness" : 3,
+		"OnboardExperience" : 4,
+		"Service" : 2
+	},
+	{
+		"FlightID" : "TU2303",
+		"TaxCode" : "VULUSZ45P17D632R",
+		"Cleanliness" : 3,
+		"OnboardExperience" : 1,
+		"Service" : 3
+	},
+	{
+		"FlightID" : "UD1826",
+		"TaxCode" : "IRVVHK06W77B440W",
+		"Cleanliness" : 3,
+		"OnboardExperience" : 2,
+		"Service" : 5
+	},
+	{
+		"FlightID" : "UH4296",
+		"TaxCode" : "UZDZNJ71V51F100R",
+		"Cleanliness" : 1,
+		"OnboardExperience" : 5,
+		"Service" : 2
+	},
+	{
+		"FlightID" : "UH4296",
+		"TaxCode" : "YHQOHJ12W58Q153G",
+		"Cleanliness" : 4,
+		"OnboardExperience" : 2,
+		"Service" : 1
+	},
+	{
+		"FlightID" : "UJ6064",
+		"TaxCode" : "HDPNAV16F98C480X",
+		"Cleanliness" : 1,
+		"OnboardExperience" : 5,
+		"Service" : 1
+	},
+	{
+		"FlightID" : "UO4983",
+		"TaxCode" : "HZTMRC54M78Q973B",
+		"Cleanliness" : 5,
+		"OnboardExperience" : 4,
+		"Service" : 1
+	},
+	{
+		"FlightID" : "UQ0135",
+		"TaxCode" : "ECXEKK13Y54B370M",
+		"Cleanliness" : 3,
+		"OnboardExperience" : 2,
+		"Service" : 2
+	},
+	{
+		"FlightID" : "UQ0135",
+		"TaxCode" : "KNCOZC05G20Q559S",
+		"Cleanliness" : 5,
+		"OnboardExperience" : 1,
+		"Service" : 1
+	},
+	{
+		"FlightID" : "VI9537",
+		"TaxCode" : "YREFNU52M74D165Z",
+		"Cleanliness" : 4,
+		"OnboardExperience" : 1,
+		"Service" : 1
+	},
+	{
+		"FlightID" : "VJ0535",
+		"TaxCode" : "HPEFEC31H02P719K",
+		"Cleanliness" : 2,
+		"OnboardExperience" : 3,
+		"Service" : 4
+	},
+	{
+		"FlightID" : "WA5427",
+		"TaxCode" : "TDSOGM50Q22W051U",
+		"Cleanliness" : 1,
+		"OnboardExperience" : 2,
+		"Service" : 4
+	},
+	{
+		"FlightID" : "WD3657",
+		"TaxCode" : "YIEEOT91Z29M920K",
+		"Cleanliness" : 2,
+		"OnboardExperience" : 1,
+		"Service" : 5
+	},
+	{
+		"FlightID" : "WN4136",
+		"TaxCode" : "DLCUKO08M67W856V",
+		"Cleanliness" : 1,
+		"OnboardExperience" : 5,
+		"Service" : 3
+	},
+	{
+		"FlightID" : "WT3640",
+		"TaxCode" : "UHUUME14Y67E787P",
+		"Cleanliness" : 1,
+		"OnboardExperience" : 3,
+		"Service" : 5
+	},
+	{
+		"FlightID" : "WU7826",
+		"TaxCode" : "WYHSNF70J34W638Q",
+		"Cleanliness" : 1,
+		"OnboardExperience" : 5,
+		"Service" : 1
+	},
+	{
+		"FlightID" : "WX1669",
+		"TaxCode" : "RVYQQT67F83A318Z",
+		"Cleanliness" : 5,
+		"OnboardExperience" : 1,
+		"Service" : 1
+	},
+	{
+		"FlightID" : "XW2288",
+		"TaxCode" : "PFNTBK36I22Y306Q",
+		"Cleanliness" : 1,
+		"OnboardExperience" : 5,
+		"Service" : 5
+	},
+	{
+		"FlightID" : "XW2288",
+		"TaxCode" : "QQNNVB70U29R010U",
+		"Cleanliness" : 1,
+		"OnboardExperience" : 1,
+		"Service" : 2
+	},
+	{
+		"FlightID" : "XW2288",
+		"TaxCode" : "UHUUME14Y67E787P",
+		"Cleanliness" : 1,
+		"OnboardExperience" : 5,
+		"Service" : 1
+	},
+	{
+		"FlightID" : "YG0387",
+		"TaxCode" : "HXTPKT85J18U867Z",
+		"Cleanliness" : 2,
+		"OnboardExperience" : 1,
+		"Service" : 4
+	},
+	{
+		"FlightID" : "YS6726",
+		"TaxCode" : "YRFHPT05Y39N633E",
+		"Cleanliness" : 2,
+		"OnboardExperience" : 1,
+		"Service" : 2
+	},
+	{
+		"FlightID" : "YW9195",
+		"TaxCode" : "URUWTU63D93S031Y",
+		"Cleanliness" : 5,
+		"OnboardExperience" : 3,
+		"Service" : 1
+	},
+	{
+		"FlightID" : "ZG5095",
+		"TaxCode" : "DHDXTV51V11P855X",
+		"Cleanliness" : 3,
+		"OnboardExperience" : 3,
+		"Service" : 2
+	},
+	{
+		"FlightID" : "ZJ0366",
+		"TaxCode" : "CSCUOO76R31I554Y",
+		"Cleanliness" : 2,
+		"OnboardExperience" : 1,
+		"Service" : 5
+	},
+	{
+		"FlightID" : "ZJ0366",
+		"TaxCode" : "YVLSSR51O48H384B",
+		"Cleanliness" : 5,
+		"OnboardExperience" : 2,
+		"Service" : 3
+	},
+	{
+		"FlightID" : "ZJ1737",
+		"TaxCode" : "VCPNZZ42F25G556C",
+		"Cleanliness" : 2,
+		"OnboardExperience" : 3,
+		"Service" : 3
+	}
+]

@@ -1,0 +1,352 @@
+[
+	{
+		"ETaxCode" : "AYYJRZ33T02L477Y",
+		"DateEmployed" : "2021-10-29",
+		"ContractType" : "Fixed-term",
+		"Wage" : 106448.75,
+		"Category" : "F"
+	},
+	{
+		"ETaxCode" : "BJLWAL20B00T838S",
+		"DateEmployed" : "2020-01-11",
+		"ContractType" : "Part-time",
+		"Wage" : 42864.25,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "CBKWIP36U47F544W",
+		"DateEmployed" : "2016-10-11",
+		"ContractType" : "Fixed-term",
+		"Wage" : 693591.31,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "CJUEOJ90S31B536Y",
+		"DateEmployed" : "2017-02-28",
+		"ContractType" : "Fixed-term",
+		"Wage" : 170313.53,
+		"Category" : "F"
+	},
+	{
+		"ETaxCode" : "CNKSZY57R26L605V",
+		"DateEmployed" : "2018-01-11",
+		"ContractType" : "Fixed-term",
+		"Wage" : 77218.44,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "CYZLYH97I43I208J",
+		"DateEmployed" : "2017-09-07",
+		"ContractType" : "Fixed-term",
+		"Wage" : 83418.42,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "EPBXMB43X19E552U",
+		"DateEmployed" : "2019-09-04",
+		"ContractType" : "Part-time",
+		"Wage" : 76741.05,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "EZLPGH47Y27T799X",
+		"DateEmployed" : "2021-07-14",
+		"ContractType" : "Part-time",
+		"Wage" : 55750.92,
+		"Category" : "F"
+	},
+	{
+		"ETaxCode" : "FEYVBE91P82B378S",
+		"DateEmployed" : "2016-08-01",
+		"ContractType" : "Permanent",
+		"Wage" : 122657.44,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "FLBGLT82P11Z867I",
+		"DateEmployed" : "2016-07-25",
+		"ContractType" : "Permanent",
+		"Wage" : 142462.85,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "FZUNHP75K58J590H",
+		"DateEmployed" : "2021-10-09",
+		"ContractType" : "Fixed-term",
+		"Wage" : 88978.71,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "GHPRJW26N31D459S",
+		"DateEmployed" : "2018-06-07",
+		"ContractType" : "Permanent",
+		"Wage" : 186164.06,
+		"Category" : "F"
+	},
+	{
+		"ETaxCode" : "GPDBHO34M70Z761H",
+		"DateEmployed" : "2016-01-08",
+		"ContractType" : "Part-time",
+		"Wage" : 49832.92,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "GTUHQC77O82X316M",
+		"DateEmployed" : "2018-05-30",
+		"ContractType" : "Permanent",
+		"Wage" : 138049.58,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "HAGQUK37N31B692N",
+		"DateEmployed" : "2016-09-16",
+		"ContractType" : "Fixed-term",
+		"Wage" : 140756.98,
+		"Category" : "F"
+	},
+	{
+		"ETaxCode" : "HCSTCA21T41D353X",
+		"DateEmployed" : "2021-05-20",
+		"ContractType" : "Fixed-term",
+		"Wage" : 82556.84,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "HLQYFF84V22C400P",
+		"DateEmployed" : "2021-09-19",
+		"ContractType" : "Fixed-term",
+		"Wage" : 95431.54,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "JQQNSX17N38C221F",
+		"DateEmployed" : "2021-01-18",
+		"ContractType" : "Permanent",
+		"Wage" : 126750.66,
+		"Category" : "F"
+	},
+	{
+		"ETaxCode" : "JYQXCZ78H50O691W",
+		"DateEmployed" : "2019-06-20",
+		"ContractType" : "Fixed-term",
+		"Wage" : 72472.29,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "LLLRWK46U07A907H",
+		"DateEmployed" : "2018-01-25",
+		"ContractType" : "Permanent",
+		"Wage" : 162815.32,
+		"Category" : "F"
+	},
+	{
+		"ETaxCode" : "MADCAH38E58S430J",
+		"DateEmployed" : "2021-10-05",
+		"ContractType" : "Part-time",
+		"Wage" : 50835.29,
+		"Category" : "F"
+	},
+	{
+		"ETaxCode" : "MARLHV43A84J466W",
+		"DateEmployed" : "2020-10-11",
+		"ContractType" : "Part-time",
+		"Wage" : 40826.52,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "MDRORQ74H94U563S",
+		"DateEmployed" : "2019-06-12",
+		"ContractType" : "Permanent",
+		"Wage" : 121788.41,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "MJHWBY17X21S774W",
+		"DateEmployed" : "2017-01-12",
+		"ContractType" : "Part-time",
+		"Wage" : 40531.49,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "OYLXCL15Y67C496Z",
+		"DateEmployed" : "2021-05-21",
+		"ContractType" : "Permanent",
+		"Wage" : 123784.03,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "PIXTLF91B14E377W",
+		"DateEmployed" : "2018-11-12",
+		"ContractType" : "Permanent",
+		"Wage" : 127435.66,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "PJMFJU95I71Y510U",
+		"DateEmployed" : "2016-02-01",
+		"ContractType" : "Fixed-term",
+		"Wage" : 87914.38,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "PXMZFA31Y13J329H",
+		"DateEmployed" : "2016-07-25",
+		"ContractType" : "Part-time",
+		"Wage" : 98146.53,
+		"Category" : "F"
+	},
+	{
+		"ETaxCode" : "QGKXXE81P97P442C",
+		"DateEmployed" : "2019-10-13",
+		"ContractType" : "Fixed-term",
+		"Wage" : 107212.58,
+		"Category" : "F"
+	},
+	{
+		"ETaxCode" : "QKPWCK95R84X474K",
+		"DateEmployed" : "2017-04-20",
+		"ContractType" : "Fixed-term",
+		"Wage" : 80124.75,
+		"Category" : "F"
+	},
+	{
+		"ETaxCode" : "QOPDRK00C76B141A",
+		"DateEmployed" : "2019-05-15",
+		"ContractType" : "Fixed-term",
+		"Wage" : 72105.71,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "QPFPPI41X12U428C",
+		"DateEmployed" : "2019-03-05",
+		"ContractType" : "Permanent",
+		"Wage" : 11064.85,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "QPHTGB89A16V899Z",
+		"DateEmployed" : "2020-07-01",
+		"ContractType" : "Permanent",
+		"Wage" : 127950.04,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "SKLWGJ39G59T697F",
+		"DateEmployed" : "2020-02-14",
+		"ContractType" : "Part-time",
+		"Wage" : 48220.87,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "TAAEYL66E56B812L",
+		"DateEmployed" : "2016-03-30",
+		"ContractType" : "Permanent",
+		"Wage" : 198214.48,
+		"Category" : "F"
+	},
+	{
+		"ETaxCode" : "TBEMUT70C05Z189G",
+		"DateEmployed" : "2016-10-15",
+		"ContractType" : "Permanent",
+		"Wage" : 122847.00,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "TLVMJK83U05H211N",
+		"DateEmployed" : "2021-08-13",
+		"ContractType" : "Permanent",
+		"Wage" : 105581.44,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "TNNZRW79Y22U832C",
+		"DateEmployed" : "2016-09-08",
+		"ContractType" : "Permanent",
+		"Wage" : 128079.49,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "UERRQO25N54V986K",
+		"DateEmployed" : "2017-02-16",
+		"ContractType" : "Permanent",
+		"Wage" : 149717.84,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "UYHDUV28P92L882J",
+		"DateEmployed" : "2016-09-26",
+		"ContractType" : "Permanent",
+		"Wage" : 134048.54,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "VGCFOI01T02V754T",
+		"DateEmployed" : "2016-03-26",
+		"ContractType" : "Fixed-term",
+		"Wage" : 62046.74,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "VLTWSC22Y00Q960S",
+		"DateEmployed" : "2018-03-21",
+		"ContractType" : "Fixed-term",
+		"Wage" : 57613.21,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "WHSFDK74U31D033I",
+		"DateEmployed" : "2016-08-25",
+		"ContractType" : "Part-time",
+		"Wage" : 65734.14,
+		"Category" : "F"
+	},
+	{
+		"ETaxCode" : "XZQKRT04Z76S070H",
+		"DateEmployed" : "2017-01-05",
+		"ContractType" : "Part-time",
+		"Wage" : 36833.04,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "YJQMCM26J76Q673L",
+		"DateEmployed" : "2021-10-08",
+		"ContractType" : "Part-time",
+		"Wage" : 79300.02,
+		"Category" : "F"
+	},
+	{
+		"ETaxCode" : "YKKDZY43C81R653I",
+		"DateEmployed" : "2018-12-22",
+		"ContractType" : "Part-time",
+		"Wage" : 80229.97,
+		"Category" : "F"
+	},
+	{
+		"ETaxCode" : "YKOEUE00F48F418W",
+		"DateEmployed" : "2021-07-13",
+		"ContractType" : "Part-time",
+		"Wage" : 61820.39,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "YUTUYI98D33B212R",
+		"DateEmployed" : "2021-01-04",
+		"ContractType" : "Permanent",
+		"Wage" : 125617.87,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "ZCQROU01C05M196T",
+		"DateEmployed" : "2017-01-09",
+		"ContractType" : "Part-time",
+		"Wage" : 54255.36,
+		"Category" : "L"
+	},
+	{
+		"ETaxCode" : "ZFNBIN56S82L376E",
+		"DateEmployed" : "2019-06-06",
+		"ContractType" : "Part-time",
+		"Wage" : 67955.22,
+		"Category" : "L"
+	}
+]
