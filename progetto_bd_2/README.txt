@@ -22,7 +22,7 @@ Le query eseguite dal programma python sono le seguenti:
 	- inserimento passeggeto					(riga 238)
 	- conteggio passeggero con codice fiscale			(riga 245)
 	- selezione codici biglietti					(riga 370, 729)
-	- selezione codici prenotazioni				(riga 390)
+	- selezione codici prenotazioni					(riga 390)
 	- selezione codici bagagli					(riga 410)
 	- selezione voli disponibili					(riga 431, 930)
 	- selezione informazioni biglietto				(righe 739...747)
